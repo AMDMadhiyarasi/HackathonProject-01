@@ -1,0 +1,1097 @@
+Name,Status,District,Temperature - celcius,Precipitation (mm),Humidity (%),Approx. NDVI Value,Soil Moisture (%),Cloud Cover (%),Dew Point (°F),Evapotranspiration (mm/day),Solar Radiation (W/m²)
+Abiramam,Town Panchayat,Ramanathapuram,33,900,78,0.65,22,45,64,4.0,540
+Acharapakkam,Town Panchayat,Kanchipuram,31,800,72,0.62,25,50,64,4.0,550
+Achipatti,Census Town,Coimbatore,34,700,74,0.60,23,42,63,4.2,530
+Adaikkakuzhi,Census Town,Kanniyakumari,33,1000,80,0.67,21,55,64,4.1,535
+Adikaratti,Town Panchayat,The Nilgiris,19,900,75,0.58,25,60,63,4.3,520
+Adiramapattinam (Adirampattinam),Town Panchayat,Thanjavur,32,950,77,0.55,23,65,64,4.0,530
+Adiyanuthu,Census Town,Dindigul,31,800,73,0.63,24,40,63,4.2,540
+Aduthurai (Maruthuvakudi),Town Panchayat,Thanjavur,32,1200,76,0.65,28,47,64,4.1,535
+Agaram,Town Panchayat,Dindigul,31,900,74,0.58,20,53,61,4.4,530
+Agastheeswaram,Town Panchayat,Kanniyakumari,33,1200,79,0.72,22,70,63,4.3,545
+Alagappapuram (Azhagappapuram),Town Panchayat,Kanniyakumari,31,950,75,0.60,25,66,64,4.2,530
+Alamathi,Census Town,Thiruvallur,34,700,71,0.65,24,49,63,4.3,540
+Alamelumangapuram,Census Town,Vellore,33,800,78,0.55,23,52,64,4.1,550
+Alampalayam,Town Panchayat,Namakkal,19,750,73,0.62,21,45,63,4.2,545
+Alandur,Municipality,Kanchipuram,32,800,74,0.60,23,57,63,4.3,530
+Alanganallur,Town Panchayat,Madurai,31,800,75,0.66,25,50,64,4.4,550
+Alangayam,Town Panchayat,Vellore,32,1000,72,0.68,26,48,64,4.1,535
+Alangudi,Town Panchayat,Pudukkottai,31,850,77,0.64,24,51,63,4.2,540
+Alangulam,Census Town,Virudhunagar,32,950,74,0.62,22,60,64,4.2,545
+Alangulam,Town Panchayat,Tirunelveli,32,950,74,0.63,23,55,63,4.2,550
+Alanthurai,Town Panchayat,Coimbatore,33,750,72,0.59,24,62,64,4.3,545
+Alapakkam,Census Town,Kanchipuram,31,700,76,0.57,22,54,63,4.4,545
+Allapuram,Town Panchayat,Vellore,35,850,73,0.60,24,46,63,4.2,530
+Alur (Aloor),Town Panchayat,Kanniyakumari,33,800,78,0.67,27,58,61,4.3,520
+Alwarkurichi,Town Panchayat,Tirunelveli,31,700,75,0.55,25,63,64,4.1,535
+Alwarthirunagiri,Town Panchayat,Thoothukkudi,31,900,72,0.62,23,50,64,4.3,530
+Amathur,Census Town,Virudhunagar,31,750,75,0.73,24,65,66,4.0,540
+Ambasamudram,Municipality,Tirunelveli,31,1100,80,0.50,21,55,63,4.5,530
+Ambattur,Municipality,Thiruvallur,31,1000,71,0.57,22,55,64,4.2,530
+Ambur,Municipality,Vellore,31,1000,73,0.61,24,50,63,4.1,545
+Ammainaickanur,Town Panchayat,Dindigul,31,750,70,0.66,21,45,61,4.0,535
+Ammanur,Census Town,Vellore,31,850,72,0.63,22,52,64,4.1,540
+Ammapattinam,Census Town,Pudukkottai,33,950,79,0.58,24,60,63,4.2,545
+Ammapettai,Town Panchayat,Erode,32,900,76,0.62,23,48,63,4.1,545
+Ammapettai,Town Panchayat,Thanjavur,32,900,76,0.64,22,49,61,4.1,530
+Ammavarikuppam,Census Town,Thiruvallur,31,800,74,0.56,24,47,64,4.3,550
+Ammoor,Town Panchayat,Vellore,31,1000,72,0.68,21,53,64,4.2,520
+Anaimalai,Town Panchayat,Coimbatore,33,1100,73,0.62,22,65,63,4.0,535
+Anaiyur,Municipality,Madurai,33,950,74,0.65,23,58,63,4.2,530
+Anaiyur,Census Town,Virudhunagar,33,950,74,0.65,21,57,64,4.2,540
+Anakaputhur,Municipality,Kanchipuram,33,750,72,0.59,25,50,63,4.1,545
+Ananthapuram,Town Panchayat,Viluppuram,33,800,75,0.60,23,55,63,4.2,530
+Andankoil East,Census Town,Karur,34,850,74,0.66,22,62,64,4.3,550
+Andipalayam,Census Town,Tiruppur,33,700,73,0.65,23,48,63,4.0,530
+Andipatti Jakkampatti,Town Panchayat,Theni,33,850,77,0.66,24,60,64,4.2,540
+Anjugrammam (Anjugramam),Town Panchayat,Kanniyakumari,33,950,70,0.63,23,65,63,4.1,545
+Annalagraharam,Census Town,Thanjavur,33,750,73,0.60,22,50,61,4.0,530
+Annamalai Nagar,Town Panchayat,Cuddalore,33,1000,74,0.62,24,55,66,4.2,540
+Annavasal,Town Panchayat,Pudukkottai,33,800,75,0.58,23,52,63,4.1,545
+Annur,Town Panchayat,Coimbatore,33,750,70,0.65,22,45,61,4.2,540
+Anthiyur,Town Panchayat,Erode,33,800,75,0.60,25,50,64,4.3,550
+Anuppankulam,Census Town,Virudhunagar,31,700,70,0.62,23,47,63,4.0,530
+Appakudal,Town Panchayat,Erode,32,850,75,0.63,21,58,64,4.1,535
+Arachalur,Town Panchayat,Erode,33,700,72,0.65,25,55,66,4.2,540
+Arakandanallur,Town Panchayat,Viluppuram,33,750,73,0.60,23,60,61,4.3,545
+Arakonam (Arakkonam),Municipality,Vellore,34,900,76,0.58,24,65,63,4.1,530
+Aralvaimozhi,Town Panchayat,Kanniyakumari,32,1200,80,0.70,28,70,64,4.0,520
+Arani,Town Panchayat,Thiruvallur,33,950,74,0.62,20,53,63,4.3,550
+Arani (Arni),Municipality,Tiruvannamalai,33,900,74,0.59,22,52,63,4.2,540
+Aranthangi,Municipality,Pudukkottai,32,1000,78,0.63,25,55,64,4.4,560
+Arasiramani,Town Panchayat,Salem,31,850,72,0.65,24,50,63,4.2,535
+Arasur,Census Town,Coimbatore,33,900,74,0.61,23,52,64,4.1,530
+Aravakurichi,Town Panchayat,Karur,33,750,71,0.64,21,45,64,4.3,545
+Aravankad (Aruvankadu),Township,The Nilgiris,33,1000,77,0.60,23,68,64,4.2,540
+Arcot,Municipality,Vellore,34,800,72,0.57,25,60,63,4.4,560
+Arimalam,Town Panchayat,Pudukkottai,33,750,74,0.59,26,55,63,4.1,530
+Ariyalur,Municipality,Ariyalur,33,1100,79,0.68,24,57,64,4.3,550
+Ariyappampalayam,Town Panchayat,Erode,33,950,76,0.62,22,48,63,4.0,520
+Ariyur,Census Town,Vellore,32,850,73,0.63,23,50,64,4.2,535
+Arumanai,Town Panchayat,Kanniyakumari,33,800,71,0.64,24,62,66,4.1,530
+Arumbanur,Census Town,Madurai,33,1000,76,0.67,22,53,64,4.2,540
+Arumbavur,Town Panchayat,Perambalur,32,850,73,0.62,24,58,63,4.3,545
+Arumuganeri,Town Panchayat,Thoothukkudi,33,800,72,0.65,27,60,64,4.4,560
+Aruppukkottai,Municipality,Virudhunagar,33,1100,80,0.61,25,63,61,4.3,550
+Asaripallam,Town Panchayat,Kanniyakumari,33,700,70,0.66,23,65,63,4.1,530
+Ashokapuram,Census Town,Coimbatore,32,750,72,0.58,24,55,64,4.0,520
+Athani,Town Panchayat,Erode,32,750,71,0.60,21,47,61,4.2,535
+Athanur,Town Panchayat,Namakkal,33,800,73,0.61,22,48,63,4.3,550
+Athimarapatti,Census Town,Thoothukkudi,31,900,75,0.63,24,50,64,4.0,520
+Athipatti,Census Town,Virudhunagar,32,950,75,0.62,21,52,63,4.1,530
+Athipattu,Census Town,Thiruvallur,32,950,75,0.59,22,53,63,4.2,540
+Athivilai,Census Town,Kanniyakumari,31,1000,77,0.66,24,60,64,4.3,550
+Athur,Town Panchayat,Thoothukkudi,33,950,74,0.60,23,55,61,4.1,530
+Athur,Town Panchayat,Kanniyakumari,33,950,74,0.61,22,57,63,4.1,530
+Attayampatti,Town Panchayat,Salem,33,800,72,0.65,24,50,63,4.2,535
+Attur,Municipality,Salem,34,900,73,0.55,21,58,61,4.3,550
+Avadattur,Census Town,Salem,32,850,71,0.60,22,60,64,4.0,520
+Avadi,Municipality,Thiruvallur,33,950,73,0.56,23,52,63,4.2,540
+Avalapalli,Census Town,Krishnagiri,33,800,70,0.63,21,50,63,4.3,545
+Avalpoondurai,Town Panchayat,Erode,33,850,72,0.61,25,47,63,4.1,530
+Avanashi (Avinashi),Town Panchayat,Tiruppur,33,1000,77,0.62,23,55,64,4.3,545
+Avaniapuram,Municipality,Madurai,31,850,72,0.63,22,53,63,4.2,535
+A. Vellalapatti (Vellalapatti),Town Panchayat,Madurai,33,800,70,0.60,23,49,61,4.0,520
+Ayacode,Census Town,Kanniyakumari,31,900,73,0.62,24,62,64,4.1,530
+Ayakudi,Town Panchayat,Dindigul,32,800,72,0.65,23,58,17,4.3,545
+Ayappakkam,Census Town,Thiruvallur,32,850,74,0.60,22,50,63,4.2,535
+Aygudi,Town Panchayat,Tirunelveli,32,800,72,0.59,24,52,63,4.3,540
+Ayothiapattinam,Town Panchayat,Salem,32,1000,77,0.62,23,55,64,4.0,520
+Ayyalur,Town Panchayat,Dindigul,32,750,70,0.64,22,60,64,4.2,535
+Ayyampalayam,Town Panchayat,Dindigul,28,980,72,0.45,25,57,65,4.2,580
+Ayyampettai,Census Town,Kanchipuram,29,1050,74,0.48,27,50,66,4.1,575
+Ayyampettai,Town Panchayat,Thanjavur,29,1020,75,0.48,27,48,67,4.3,590
+Ayyappanthangal,Census Town,Kanchipuram,28,750,76,0.50,23,53,64,4.0,600
+Azhagiapandipuram (Azhagiapandiapuram),Town Panchayat,Kanniyakumari,30,1190,73,0.55,24,65,65,4.2,570
+Balakrishnampatti,Town Panchayat,Tiruchirappalli,28,920,72,0.52,26,52,66,4.1,585
+Balakrishnapuram,Census Town,Dindigul,29,870,71,0.50,25,48,67,4.4,580
+Balasamudram,Town Panchayat,Dindigul,29,1090,68,0.53,28,55,63,4.3,595
+Bargur,Town Panchayat,Krishnagiri,27,1250,74,0.48,23,58,64,4.2,610
+Batlagundu,Town Panchayat,Dindigul,25,1180,70,0.62,27,60,65,4.3,605
+Belur,Town Panchayat,Salem,29,970,72,0.60,25,50,66,4.1,615
+Bhavani,Municipality,Erode,30,890,73,0.52,24,55,67,4.2,620
+Bhavanisagar,Town Panchayat,Erode,31,1050,78,0.60,23,52,64,4.3,600
+Bhuvanagiri,Town Panchayat,Cuddalore,30,1240,80,0.60,25,60,61,4.4,610
+Bikketti,Town Panchayat,The Nilgiris,27,1320,72,0.45,26,68,62,4.1,580
+B.Mallapuram,Town Panchayat,Dharmapuri,28,860,74,0.48,25,50,65,4.2,575
+B. Meenakshipuram,Town Panchayat,Theni,29,1010,75,0.52,24,48,66,4.2,590
+Bodinayakanur (Bodinayakkanur),Municipality,Theni,32,1340,76,0.55,26,55,67,4.2,605
+Boothapandi,Town Panchayat,Kanniyakumari,30,1080,73,0.50,23,58,65,4.3,590
+Boothipuram,Town Panchayat,Theni,30,920,72,0.50,23,57,66,4.4,580
+Brahmana Periya Agraharam,Town Panchayat,Erode,28,970,74,0.50,24,50,64,4.2,600
+Chakkarapalli,Census Town,Thanjavur,29,1020,72,0.55,25,53,65,4.3,585
+Chathirareddipatti,Census Town,Virudhunagar,28,840,71,0.50,23,50,66,4.1,590
+Chatrapatti,Census Town,Virudhunagar,29,950,75,0.53,25,52,67,4.3,605
+Chenbagaramanputhur,Census Town,Kanniyakumari,29,1110,78,0.60,24,60,66,4.0,590
+Chengalpattu,Municipality,Kanchipuram,32,780,71,0.60,23,62,65,4.5,610
+Chengam,Town Panchayat,Tiruvannamalai,30,1050,70,0.50,26,58,64,4.2,600
+Chengappalli,Census Town,Tiruppur,30,870,72,0.48,23,55,63,4.1,615
+Chennagiri,Census Town,Salem,28,940,82,0.55,27,50,70,4.0,605
+Chennai [Madras],Municipal Corporation,Chennai,30,1350,73,0.60,23,65,65,4.1,620
+Chennasamudram,Town Panchayat,Erode,28,900,72,0.55,24,55,66,4.2,600
+Chennimalai,Town Panchayat,Erode,30,960,75,0.55,25,53,67,4.1,605
+Cheranmadevi,Town Panchayat,Tirunelveli,29,1150,74,0.52,23,50,64,4.1,590
+Chetpet (Chettupattu),Town Panchayat,Tiruvannamalai,30,920,72,0.48,24,52,65,4.3,600
+Chettiarpatti,Town Panchayat,Virudhunagar,28,880,71,0.50,25,50,66,4.2,595
+Chettinaickenpatti,Census Town,Dindigul,29,1010,73,0.53,26,48,67,4.0,590
+Chettipalayam,Census Town,Tiruppur,30,890,74,0.45,23,55,65,4.2,605
+Chettipalayam,Town Panchayat,Coimbatore,30,920,79,0.45,23,53,66,4.2,600
+Chettithangal,Census Town,Vellore,28,860,79,0.50,24,50,67,4.3,620
+Chidambaram,Municipality,Cuddalore,32,1420,74,0.60,25,60,65,4.4,610
+Chidambaram Nm,Census Town,Cuddalore,31,1380,72,0.60,24,62,66,4.1,600
+Chinna Anuppanadi,Census Town,Madurai,29,960,71,0.45,23,58,64,4.2,605
+Chinnakalayamputhur,Census Town,Dindigul,29,1050,73,0.50,25,55,65,4.2,600
+Chinnakkampalayam,Town Panchayat,Tiruppur,30,930,74,0.48,26,50,67,4.2,615
+Chinnalapatti,Town Panchayat,Dindigul,29,870,71,0.50,25,52,66,4.3,620
+Chinnamanur,Municipality,Theni,31,1120,72,0.48,23,60,64,4.4,610
+Chinnampalayam (Chinniampalayam),Census Town,Coimbatore,30,940,73,0.50,24,55,65,4.2,595
+Chinnamudalaipatti,Census Town,Namakkal,28,880,78,0.53,25,50,66,4.3,625
+Chinnasalem,Town Panchayat,Viluppuram,30,1000,72,0.52,24,53,67,4.1,580
+Chinnasekkadu,Town Panchayat,Thiruvallur,29,1020,73,0.50,23,50,66,4.3,570
+Chinnathadagam,Census Town,Coimbatore,28,940,72,0.45,24,48,64,4.0,615
+Chinnavedampatti,Town Panchayat,Coimbatore,30,870,71,0.48,25,55,65,4.5,605
+Chinniam palayam,Census Town,Coimbatore,30,990,78,0.45,23,53,66,4.2,610
+Chithode,Town Panchayat,Erode,30,1040,75,0.52,25,50,67,4.1,620
+Chitlapakkam,Town Panchayat,Kanchipuram,29,940,76,0.60,23,60,68,4.0,630
+Cholapuram,Town Panchayat,Thanjavur,31,870,70,0.53,24,62,65,4.1,635
+Choozhal,Census Town,Kanniyakumari,28,1130,80,0.45,25,58,64,4.2,585
+Coimbatore,Municipal Corporation,Coimbatore,30,1380,82,0.62,27,55,67,4.1,620
+Colachel (Kolachal),Municipality,Kanniyakumari,31,1520,79,0.55,24,50,70,4.1,580
+Coonoor,Municipality,The Nilgiris,25,1490,81,0.68,26,52,63,4.3,615
+Courtalam (Courtallam),Town Panchayat,Tirunelveli,28,1450,72,0.70,23,60,68,4.2,600
+Cuddalore,Municipality,Cuddalore,31,1370,78,0.58,25,65,69,4.0,625
+Dalavaipatti,Census Town,Salem,29,1040,72,0.52,23,55,65,4.2,610
+Damalerimuthur,Census Town,Vellore,30,870,70,0.50,23,50,64,4.2,620
+Dasanaickenpatti,Census Town,Salem,29,920,73,0.53,24,52,66,4.1,630
+Denkanikottai,Town Panchayat,Krishnagiri,30,1110,75,0.48,23,60,63,4.2,580
+Desur,Town Panchayat,Tiruvannamalai,28,890,74,0.45,25,55,65,4.3,605
+Devadanapatti,Town Panchayat,Theni,29,1040,80,0.50,24,50,66,4.0,590
+Devakottai,Municipality,Sivaganga,30,930,78,0.55,23,53,67,4.2,580
+Devarshola,Town Panchayat,The Nilgiris,31,1200,77,0.52,25,50,63,4.1,600
+Devasthanam,Census Town,Vellore,29,1020,79,0.48,23,48,65,4.0,585
+Devikapuram,Census Town,Tiruvannamalai,30,960,72,0.50,24,55,66,4.2,590
+Devipattinam,Census Town,Ramanathapuram,32,1350,72,0.45,23,53,68,4.1,605
+Dhalavoipuram,Census Town,Virudhunagar,30,860,71,0.52,23,50,66,4.2,590
+Dhali,Town Panchayat,Tiruppur,28,1220,78,0.50,24,60,64,4.3,610
+Dhaliyur,Town Panchayat,Coimbatore,29,880,74,0.48,23,62,65,4.0,600
+Dharamapuram,Census Town,Kanniyakumari,30,940,72,0.53,25,58,66,4.1,615
+Dharapadavedu,Municipality,Vellore,28,1000,78,0.48,23,55,67,4.2,605
+Dharapuram,Municipality,Tiruppur,31,1020,70,0.50,24,50,66,4.3,620
+Dharasuram (Darasuram),Town Panchayat,Thanjavur,30,930,72,0.53,25,52,67,4.1,600
+Dharmapuri,Municipality,Dharmapuri,30,890,71,0.55,23,60,65,4.0,605
+Dindigul,Municipality,Dindigul,31,1380,74,0.60,27,65,66,4.3,590
+Doramangalam,Census Town,Salem,29,850,71,0.50,23,55,65,4.2,600
+Dusi,Census Town,Tiruvannamalai,30,920,80,0.45,24,50,64,4.4,595
+Edaganasalai,Town Panchayat,Salem,28,960,78,0.52,23,52,66,4.2,590
+Edaicode (Edaikodu),Town Panchayat,Kanniyakumari,29,1340,72,0.50,24,60,70,4.1,605
+Edakalinadu,Town Panchayat,Kanchipuram,28,1220,78,0.48,25,55,68,4.3,600
+Edappadi,Municipality,Salem,30,1010,74,0.50,23,50,66,4.2,620
+Edayanchavadi,Census Town,Thiruvallur,29,880,73,0.48,24,53,67,4.4,610
+Elathur,Town Panchayat,Erode,28,970,74,0.55,23,50,65,4.1,600
+Elayirampannai,Census Town,Virudhunagar,30,860,72,0.45,23,48,66,4.3,605
+Ellakkudy,Census Town,Tiruchirappalli,29,930,74,0.50,24,55,67,4.0,520
+Ellandaikuttai,Census Town,Namakkal,28,870,78,0.48,25,53,66,4.2,500
+Elumalai,Town Panchayat,Madurai,29,980,72,0.52,23,50,64,4.1,510
+Eral,Town Panchayat,Thoothukkudi,30,1150,79,0.45,23,60,68,4.2,560
+Eranapuram,Census Town,Salem,28,1080,72,0.50,24,62,66,4.3,580
+Eraniel,Town Panchayat,Kanniyakumari,29,1250,70,0.48,23,58,70,4.4,520
+Eriodu (Eriyodu),Town Panchayat,Dindigul,30,930,72,0.45,23,55,66,4.3,560
+Erode,Municipal Corporation,Erode,30,1410,72,0.60,25,50,67,4.1,600
+Erumaipatti,Town Panchayat,Namakkal,29,1020,72,0.50,23,52,65,4.0,530
+Erumapalayam,25-32%,Salem,29,1450,74,0.55,25,50,70,4.2,535
+Eruvadi,23-30%,Tirunelveli,30,1210,71,0.52,23,55,65,4.3,540
+Ethapur,22-29%,Salem,30,960,73,0.48,22,52,68,4.0,545
+Ettayapuram,24-33%,Thoothukkudi,31,780,72,0.53,24,60,66,4.1,530
+Ettimadai,26-33%,Coimbatore,30,850,75,0.60,26,58,67,4.2,520
+Ezhudesam,23-31%,Kanniyakumari,29,1120,74,0.50,23,62,65,4.3,550
+Ganapathipuram,22-29%,Kanniyakumari,30,1080,73,0.50,22,55,69,4.1,540
+Gandhinagar,27-35%,Vellore,31,650,72,0.53,27,50,68,4.1,560
+Gandipuram,26-34%,Kanniyakumari,30,920,74,0.55,26,48,66,4.2,535
+Gangaikondan,24-32%,Cuddalore,31,1250,71,0.55,24,55,67,4.3,530
+Gangavalli,23-30%,Salem,30,1010,72,0.53,23,53,68,4.0,545
+Ganguvarpatti,25-33%,Theni,29,880,73,0.52,25,50,65,4.2,540
+Gerugambakkam,24-31%,Kanchipuram,30,750,74,0.60,24,60,66,4.3,560
+Gingee,25-32%,Viluppuram,31,1140,72,0.55,25,62,67,4.1,530
+Gobichettipalayam,23-30%,Erode,30,1080,73,0.52,23,58,65,4.3,550
+Gopalasamudram,22-29%,Tirunelveli,29,940,72,0.55,22,55,64,4.2,520
+Goundampalayam,24-31%,Coimbatore,30,780,80,0.50,24,50,67,4.0,535
+Gudalur,24-31%,The Nilgiris,27,1480,74,0.60,24,52,65,4.1,530
+Gudalur (Wayanad),25-34%,Coimbatore,27,1250,78,0.60,25,60,63,4.2,540
+Gudiyatham,22-29%,Theni,27,1110,72,0.60,22,65,63,4.3,545
+Gummidipoondi,23-30%,Vellore,30,940,70,0.52,23,55,63,4.4,560
+Gunduuppalavadi,25-32%,Thiruvallur,30,620,72,0.50,25,50,66,4.1,550
+Hale-Dharmapuri,24-31%,Cuddalore,29,1150,71,0.48,24,52,68,4.2,530
+Hanumanthampatti,23-30%,Dharmapuri,30,870,73,0.50,23,60,66,4.2,520
+Harur,24-32%,Theni,29,1020,72,0.45,24,55,65,4.2,535
+Harveypatti,22-28%,Dharmapuri,29,760,70,0.53,22,50,66,4.3,550
+Highways,24-31%,Madurai,30,930,80,0.52,24,53,65,4.4,520
+Hosur,26-35%,Theni,31,520,80,0.45,26,50,67,4.2,530
+Hubbathala,23-30%,Krishnagiri,29,1280,72,0.58,23,48,67,4.3,530
+Huligal,22-29%,The Nilgiris,28,1080,71,0.50,22,55,64,4.1,535
+Idikarai,25-33%,The Nilgiris,30,1320,72,0.45,25,53,62,4.3,540
+Iduvai,24-31%,Coimbatore,30,910,75,0.55,24,50,61,4.0,545
+Ilampillai,23-30%,Tiruppur,29,720,74,0.53,23,60,66,4.5,530
+Ilanji,24-32%,Salem,30,860,73,0.50,24,62,65,4.2,520
+Ilayangudi,23-30%,Tirunelveli,29,1010,72,0.52,23,58,66,4.1,550
+Iluppaiyurani,22-29%,Sivaganga,30,1240,71,0.53,22,55,67,4.0,540
+Iluppur,23-31%,Thoothukkudi,29,950,72,0.50,23,50,68,4.1,560
+Inam Karur,22-30%,Pudukkottai,30,860,78,0.52,22,52,65,4.2,535
+Inam Maniyachi,23-29%,Karur,29,1030,73,0.55,23,60,66,4.1,530
+Injambakkam,24-31%,Thoothukkudi,30,770,72,0.45,24,65,67,4.1,545
+Iravadanallur,22-30%,Kanchipuram,30,650,70,0.55,22,55,68,4.3,540
+Irugur,23-30%,Madurai,29,920,80,0.52,23,50,70,4.2,560
+Jaffrabad,25-33%,Coimbatore,29,1050,72,0.50,25,52,66,4.0,530
+Jagathala,22-29%,Vellore,30,720,74,0.45,22,60,67,4.2,550
+Jalakandapuram,23-31%,The Nilgiris,29,1480,72,0.52,23,55,68,4.2,520
+Jalladiampet,22-30%,Salem,30,860,74,0.50,22,50,63,4.1,535
+Jambai,24-32%,Kanchipuram,30,640,72,0.45,24,53,65,4.2,530
+Jayankondam,23-30%,Erode,29,900,73,0.55,23,50,67,4.3,540
+Jolarpet,24-32%,Ariyalur,30,1130,74,0.52,24,60,66,4.0,545
+Kadambathur,23-31%,Vellore,31,1020,72,0.53,23,62,68,4.2,560
+Kadambur,24-32%,Thiruvallur,30,780,71,0.50,24,58,66,4.1,550
+Kadaparai,22-29%,Thoothukkudi,30,860,75,0.52,22,55,69,4.0,530
+Kadathur,23-31%,Karur,29,1040,74,0.45,23,50,66,4.2,520
+Kadayal,22-29%,Dharmapuri,30,650,72,0.53,22,52,67,4.1,535
+Kadayam,24-31%,Kanniyakumari,30,940,73,0.50,24,60,66,4.2,550
+Kadayampatti,23-30%,Tirunelveli,30,1210,74,0.45,23,62,67,4.3,520
+Kadayanallur,22-30%,Salem,29,860,72,0.50,22,58,66,4.0,530
+Kadhirvedu,23-31%,Tirunelveli,30,1170,73,0.48,23,55,67,4.1,530
+Kailasagiri,22-30%,Thiruvallur,29,750,75,0.53,22,50,65,4.2,535
+Kakkalur,23-29%,Vellore,28,650,72,0.60,23,52,66,4.3,540
+Kalakad,23-30%,Thiruvallur,30,920,71,0.50,23,60,67,4.1,545
+Kalambur,24-31%,Tirunelveli,28,1010,72,0.58,24,65,66,4.0,530
+Kalapatti,23-30%,Tiruvannamalai,30,740,73,0.52,23,55,65,4.3,520
+Kalappanaickenpatti,24-31%,Coimbatore,30,860,72,0.50,24,50,67,4.2,550
+Kalavai,23-29%,Namakkal,29,1020,75,0.52,23,52,70,4.4,540
+Kalinjur,22-30%,Vellore,30,650,74,0.48,22,60,68,4.2,560
+Kaliyakkavilai,24-32%,Vellore,30,930,73,0.50,24,55,67,4.1,535
+Kalladaikurichi,23-30%,Kanniyakumari,30,1150,74,0.55,23,50,65,4.3,530
+Kallakkurichi,24-32%,Tirunelveli,30,1230,72,0.48,24,53,66,4.2,545
+Kallakudi,23-29%,Viluppuram,30,1050,73,0.53,23,50,65,4.4,540
+Kallangudy,23-30%,Tiruchirappalli,29,860,72,0.52,23,60,66,4.1,560
+Kallukuttam,22-29%,Pudukkottai,30,970,73,0.50,22,62,68,4.3,530
+Kalparapatti,23-30%,Kanniyakumari,30,780,72,0.48,23,58,70,4.0,550
+Kalugumalai,22-30%,Salem,30,1040,71,0.53,22,55,66,4.2,520
+Kamayagoundanpatti,23-30%,Thoothukkudi,30,1210,74,0.50,23,50,68,4.1,535
+Kambainallur,24-32%,Theni,30,970,73,0.45,24,52,67,4.2,530
+Kambam,23-30%,Dharmapuri,30,860,74,0.52,23,60,66,4.3,540
+Kamuthi,24-32%,Theni,30,1490,72,0.58,24,65,68,4.4,545
+Kanadukathan,23-30%,Ramanathapuram,30,1160,72,0.60,23,55,66,4.3,560
+Kanakkampalayam,23-29%,Sivaganga,30,770,74,0.50,23,50,67,4.1,550
+Kanam,24-32%,Tiruppur,30,880,75,0.52,24,52,65,4.0,530
+Kancheepuram,23-30%,Tiruppur,30,950,73,0.53,23,60,70,4.2,520
+Kandanur,22-29%,Thoothukkudi,30,1040,72,0.50,22,65,67,4.3,535
+Kangeyam,23-30%,Kanchipuram,30,630,73,0.60,23,55,69,4.0,550
+Kangeyanallur,24-31%,Sivaganga,30,950,72,0.52,24,50,67,4.1,520
+Kaniyambadi,23-30%,Tiruppur,30,1050,71,0.55,23,52,66,4.2,530
+Kaniyur,24-31%,Vellore,30,760,72,0.50,24,60,67,4.3,615
+Kanjikoil,23-30%,Vellore,30,880,73,0.48,23,62,65,4.1,610
+Kannamangalam,23-29%,Tiruppur,30,1030,72,0.53,23,58,70,4.1,620
+Kannampalayam,24-32%,Coimbatore,30,740,74,0.53,24,55,66,4.2,630
+Kannanendal,23-30%,Erode,30,970,72,0.55,23,50,65,4.3,600
+Kannankurichi,23-30%,Tiruvannamalai,30,860,73,0.52,23,52,67,4.0,640
+Kannanoor,24-32%,Coimbatore,30,1020,72,0.50,24,60,66,4.2,615
+Kannapalayam,22-29%,Madurai,30,750,71,0.55,22,65,65,4.3,610
+Kannivadi,23-30%,Salem,30,930,78,0.53,23,55,67,4.1,615
+Kannivadi (Alternate),24-32%,Kanniyakumari,30,1180,73,0.50,24,50,68,4.3,620
+Kanniyakumari,23-30%,Thiruvallur,30,860,72,0.52,23,52,66,4.2,630
+Kappiyarai,24-31%,Tiruppur,30,1040,71,0.48,24,60,70,4.0,530
+Karadipatti,23-30%,Dindigul,30,740,72,0.48,23,62,66,4.1,535
+Karaikkudi,23-30%,Kanniyakumari,28,1320,73,0.55,23,58,65,4.2,540
+Karaipudur,24-32%,Kanniyakumari,30,1140,72,0.62,24,55,66,4.3,580
+Karamadai,23-30%,Madurai,30,960,74,0.63,23,50,67,4.4,600
+Karambakkam,24-31%,Sivaganga,30,1280,78,0.59,24,52,66,4.1,610
+Karambakkudi,23-30%,Tiruppur,30,940,75,0.57,23,60,67,4.2,595
+Kariamangalam,23-30%,Coimbatore,30,1100,80,0.60,23,62,65,4.2,620
+Kariapatti,24-31%,Thiruvallur,30,990,77,0.67,24,58,60,4.2,610
+Karugampattur,23-30%,Pudukkottai,30,1030,74,0.55,23,55,66,4.3,605
+Karukkalvadi,23-30%,Dharmapuri,30,1080,76,0.62,23,50,67,4.4,600
+Karumandi Chellipalayam,24-32%,Virudhunagar,30,1120,79,0.73,24,52,65,4.2,610
+Karumathampatti,23-31%,Vellore,30,890,73,0.50,23,60,67,4.3,620
+Karungal,22-29%,Salem,30,1020,81,0.57,22,65,66,4.1,605
+Karunguzhi,23-31%,Erode,30,950,78,0.61,23,55,65,4.3,620
+Karuppur,24-31%,Coimbatore,30,870,75,0.66,24,50,66,4.0,615
+Karur,24-32%,Kanniyakumari,30,1190,72,0.63,24,52,67,4.5,590
+Kasinayagampatti,23-30%,Kanchipuram,30,1050,74,0.58,23,60,70,4.2,600
+Kasipalayam (E),22-29%,Salem,30,930,80,0.62,22,62,66,4.1,610
+Kasipalayam (G),24-31%,Karur,30,1340,79,0.64,24,58,65,4.0,630
+Katpadi,24-32%,Vellore,30,970,77,0.56,24,55,66,4.1,615
+Kattathurai,23-30%,Erode,30,910,76,0.68,23,50,67,4.2,620
+Kattiganapalli,23-30%,Erode,30,1060,75,0.62,23,52,65,4.1,625
+Kattimancode,24-32%,Vellore,30,1000,78,0.65,24,60,66,4.1,610
+Kattivakkam,23-30%,Kanniyakumari,30,1120,79,0.65,23,65,65,4.3,590
+Kattiganapalli (Kathujuganapalli),Census Town,Krishnagiri,30,880,80,0.59,25,55,67,4.2,605
+Kattimancode,Census Town,Kanniyakumari,30,920,81,0.60,28,50,66,4.0,595
+Kattivakkam (Kathivakkam),Municipality,Thiruvallur,30,990,76,0.66,30,52,65,4.2,610
+Kattumannarkoil,Town Panchayat,Cuddalore,30,1180,78,0.65,22,60,66,4.2,620
+Kattupakkam,Census Town,Thiruvallur,30,870,80,0.66,24,65,65,4.1,615
+Kattuputhur,Town Panchayat,Tiruchirappalli,30,1020,79,0.63,26,55,66,4.2,605
+Kaveripakkam,Town Panchayat,Vellore,30,1050,77,0.60,27,50,67,4.3,610
+Kaveripattinam,Town Panchayat,Krishnagiri,30,1110,75,0.62,23,52,65,4.0,620
+Kayalpattinam,Municipality,Thoothukkudi,30,1370,78,0.58,29,40,60,4.2,590
+Kayatharu,Town Panchayat,Thoothukkudi,30,980,80,0.65,20,45,66,4.1,600
+Keelakarai (Kilakarai),Municipality,Ramanathapuram,30,1230,82,0.60,26,50,65,4.0,590
+Keelamanjakudi,Census Town,Pudukkottai,30,950,79,0.62,22,35,66,4.2,600
+Keeramangalam,Town Panchayat,Pudukkottai,30,1010,81,0.63,28,50,67,4.1,615
+Keeranur,Town Panchayat,Dindigul,30,970,77,0.65,25,45,70,4.2,620
+Keeranur,Town Panchayat,Pudukkottai,30,960,78,0.60,24,50,67,4.3,600
+Keeripatti,Town Panchayat,Salem,30,910,79,0.58,27,60,66,4.0,590
+Keezhkulam (Kilkulam),Town Panchayat,Kanniyakumari,30,1200,76,0.70,29,40,70,4.1,620
+Kelamangalam,Town Panchayat,Krishnagiri,30,1070,80,0.62,21,55,67,4.2,570
+Kembainaickenpalayam,Town Panchayat,Erode,30,930,74,0.59,30,30,66,4.3,610
+Kethi (Ketti),Town Panchayat,The Nilgiris,28,1290,75,0.63,23,55,65,4.1,600
+Kila Ambur,Census Town,Tirunelveli,30,940,73,0.65,22,50,66,4.0,580
+Kilampadi,Town Panchayat,Erode,30,880,76,0.61,28,50,65,4.3,590
+Kilapavoor (Keezhapavur),Town Panchayat,Tirunelveli,30,990,78,0.64,25,40,67,4.2,585
+Kilkunda,Town Panchayat,The Nilgiris,30,1340,80,0.60,20,55,65,4.4,600
+Killai,Town Panchayat,Cuddalore,30,870,79,0.57,26,60,67,4.2,615
+Killiyoor (Killiyur),Town Panchayat,Kanniyakumari,30,1230,78,0.59,30,40,70,4.1,605
+Kilmanavur,Census Town,Vellore,30,910,81,0.68,22,50,66,4.3,610
+Kilpennathur (Kizh-Pennathur),Town Panchayat,Tiruvannamalai,30,1040,75,0.62,29,45,67,4.2,630
+Kilpudupakkam,Census Town,Tiruvannamalai,30,960,77,0.63,24,55,66,4.4,560
+Kilvaithinankuppam,Census Town,Vellore,30,870,76,0.64,26,50,65,4.1,605
+Kilvelur,Town Panchayat,Nagapattinam,30,1080,74,0.67,27,45,67,4.3,615
+Kinathukadavu,Town Panchayat,Coimbatore,30,1120,78,0.62,23,40,68,4.0,600
+K.Madapur,Census Town,Coimbatore,30,970,75,0.65,30,80,66,4.2,610
+Kodaikanal,Municipality,Dindigul,20,1450,79,0.61,20,55,70,4.1,590
+Kodavasal (Kudavasal),Town Panchayat,Thiruvarur,30,1230,80,0.66,25,50,66,4.2,615
+Kodivalasa,Census Town,Thiruvallur,30,1040,81,0.58,27,50,65,4.3,620
+Kodumudi,Town Panchayat,Erode,30,1020,76,0.60,29,40,66,4.4,630
+Koilambakkam,Census Town,Kanchipuram,30,950,78,0.61,21,40,67,4.3,600
+Koilpalayam,Census Town,Coimbatore,30,970,79,0.63,22,45,66,4.1,590
+Kolappalur,Town Panchayat,Erode,30,980,75,0.62,26,50,67,4.0,615
+Kolathupalayam,Town Panchayat,Tiruppur,30,1030,77,0.59,30,55,65,4.2,600
+Kolathur,Town Panchayat,Salem,30,890,78,0.66,24,50,60,4.3,580
+Kollancode (Kollankodu),Town Panchayat,Kanniyakumari,30,1320,80,0.60,28,60,66,4.0,630
+Kollankoil,Town Panchayat,Erode,30,1180,79,0.62,29,55,67,4.1,620
+Komaralingam,Town Panchayat,Tiruppur,30,910,77,0.63,27,50,65,4.2,630
+Kombai,Town Panchayat,Theni,30,1050,78,0.59,21,45,67,4.3,610
+Konavattam,Census Town,Vellore,30,1000,76,0.57,23,40,66,4.1,590
+Kondalampatti,Census Town,Salem,30,980,78,0.60,26,50,65,4.1,600
+Kondappanaickenpatti,Census Town,Salem,30,940,79,0.67,29,55,66,4.2,620
+Kondasamudram,Census Town,Vellore,30,920,75,0.55,22,50,67,4.3,615
+Kondichettipatti,Census Town,Namakkal,30,970,77,0.62,24,45,70,4.0,610
+Kondur,Census Town,Cuddalore,30,950,78,0.73,28,50,66,4.2,620
+Konerikuppam,Census Town,Kanchipuram,30,960,79,0.50,25,40,65,4.3,630
+Konganapuram,Town Panchayat,Salem,30,1080,80,0.57,30,45,66,4.1,600
+Kooraikundu,Census Town,Virudhunagar,30,1030,81,0.61,21,50,67,4.3,640
+Koothappar,Town Panchayat,Tiruchirappalli,30,990,78,0.66,27,55,65,4.2,615
+Koradacheri,Town Panchayat,Thiruvarur,30,870,79,0.63,29,50,66,4.0,610
+Kosavampatti,Census Town,Namakkal,30,890,80,0.58,23,45,65,4.1,615
+Kotagiri,Town Panchayat,The Nilgiris,18,1420,78,0.62,20,70,67,4.2,620
+Kothanallur (Kothinallur),Town Panchayat,Kanniyakumari,30,960,75,0.64,26,55,66,4.3,630
+Kottagoundampatty,Census Town,Salem,30,940,76,0.56,28,50,67,4.4,530
+Kottaiyur,Town Panchayat,Sivaganga,30,970,78,0.68,24,55,66,4.1,535
+Kottakuppam,Town Panchayat,Viluppuram,30,990,79,0.62,30,50,65,4.2,540
+Kottaram,Town Panchayat,Kanniyakumari,30,1100,80,0.65,22,60,67,4.2,545
+Kottivakkam,Census Town,Kanchipuram,30,1010,77,0.65,29,45,68,4.2,530
+Kottur,Town Panchayat,Coimbatore,30,890,76,0.59,25,50,66,4.3,520
+Kovalam (Covelong),Census Town,Kanchipuram,28,1150,79,0.60,27,55,70,4.4,550
+Kovilpatti,Municipality,Thoothukkudi,30,1080,80,0.66,20,50,66,4.2,540
+Kovur,Census Town,Kanchipuram,30,930,78,0.65,28,45,65,4.3,560
+Krishnagiri,Municipality,Krishnagiri,30,1200,75,0.66,30,55,66,4.1,535
+Krishnarayapuram,Town Panchayat,Karur,30,1040,74,0.63,24,50,67,4.3,530
+Krishnasamudram,Census Town,Tiruchirappalli,30,970,76,0.60,26,55,66,4.0,545
+Kuchanur,Town Panchayat,Theni,30,870,78,0.62,29,50,67,4.5,540
+Kuhalur,Town Panchayat,Erode,30,880,79,0.58,21,45,65,4.2,560
+Kulappuram,Census Town,Kanniyakumari,30,930,78,0.65,23,50,60,4.1,530
+Kulasekaram (Kulasekarapuram),Town Panchayat,Kanniyakumari,30,1270,80,0.60,27,55,66,4.0,550
+Kulathur (Kulathoor),Census Town,Tiruchirappalli,30,950,81,0.62,25,50,67,4.1,520
+Kulithalai,Municipality,Karur,30,1010,79,0.63,30,45,65,4.2,535
+Kullursandai,Census Town,Virudhunagar,30,970,78,0.65,28,45,67,4.1,530
+Kumaragiri,Census Town,Thoothukkudi,30,890,76,0.60,25,50,66,4.1,540
+Kumarapalayam (Komarapalayam),Municipality,Namakkal,30,1040,78,0.58,29,55,65,4.3,545
+Kumarapuram,Town Panchayat,Kanniyakumari,30,1120,80,0.70,22,50,66,4.2,560
+Kumbakonam,Municipality,Thanjavur,30,1270,79,0.62,30,60,67,4.0,550
+Kundrathur,Town Panchayat with Outgrowth,Kanchipuram,30,980,77,0.59,24,55,70,4.2,530
+Kuniyamuthur,Municipality,Coimbatore,30,1020,75,0.63,27,50,66,4.2,520
+Kunnathur,Town Panchayat,Tiruppur,30,970,78,0.65,23,45,65,4.1,535
+Kurichi,Municipality,Coimbatore,30,1050,80,0.61,26,50,66,4.2,550
+Kurinjipadi,Town Panchayat,Cuddalore,30,990,82,0.64,28,55,67,4.3,520
+Kurudampalayam,Census Town,Coimbatore,30,960,79,0.60,21,50,65,4.0,530
+Kurukkupatti,Census Town,Salem,30,870,81,0.57,29,45,66,4.2,530
+Kurumbalur,Town Panchayat,Perambalur,30,1030,77,0.59,25,50,65,4.1,535
+Kurumbapatti,Census Town,Dindigul,30,940,78,0.68,22,55,67,4.0,540
+Kuruppanaickenpalayam,Census Town,Erode,30,890,79,0.62,27,50,66,4.2,545
+Kuthalam,Town Panchayat,Nagapattinam,30,1180,76,0.63,30,45,64,4.1,530
+Kuthanallur,Municipality,Thiruvarur,30,920,80,0.64,24,50,64,4.2,520
+Kuthankuzhi,Census Town,Tirunelveli,30,970,74,0.67,20,55,63,4.3,550
+Kuzhithurai,Municipality,Kanniyakumari,30,1350,75,0.62,26,60,64,4.0,540
+Labbaikudikadu,Town Panchayat,Perambalur,30,990,73,0.65,29,50,63,4.1,560
+Lakkampatti,Town Panchayat,Erode,30,980,76,0.61,23,45,64,4.2,535
+Lakkiampatti,Census Town,Dharmapuri,30,910,78,0.66,27,50,63,4.3,530
+Lakshminarayanapuram,Census Town,Cuddalore,30,970,80,0.58,25,55,64,4.1,545
+Lalgudi,Town Panchayat,Tiruchirappalli,30,1100,79,0.60,28,50,61,4.0,540
+Lalpet,Town Panchayat,Cuddalore,30,1080,78,0.61,22,45,63,4.3,560
+Madaharpakkam,Census Town,Thiruvallur,30,1050,81,0.63,30,50,64,4.2,530
+Madambakkam,Town Panchayat,Kanchipuram,30,980,75,0.62,26,55,63,4.4,550
+Madambakkam (in: Sriperumbudur subdistrict),Census Town,Kanchipuram,30,970,77,0.59,21,50,64,4.2,520
+Madathukulam,Town Panchayat,Tiruppur,30,940,76,0.66,29,45,63,4.1,535
+Madavaram (Madhavaram),Municipality,Thiruvallur,30,1120,74,0.60,25,50,63,4.3,530
+Madippakkam (Madipakkam),Census Town,Kanchipuram,30,1020,78,0.58,22,55,64,4.2,540
+Madukkarai,Town Panchayat,Coimbatore,30,990,75,0.55,28,50,64,4.4,545
+Madukkur,Town Panchayat,Thanjavur,30,1080,79,0.63,24,45,63,4.1,560
+Madurai,Municipal Corporation,Madurai,30,1320,80,0.65,30,60,64,4.3,550
+Maduranthakam,Municipality,Kanchipuram,30,1050,81,0.58,27,55,63,4.0,530
+Maduravoyal,Municipality,Thiruvallur,30,910,76,0.72,23,50,64,4.2,520
+Majaragollappatti,Census Town,Salem,30,930,78,0.60,26,45,63,4.1,535
+Makkinampatti,Census Town,Coimbatore,30,970,79,0.65,29,50,63,4.2,550
+Malayadi,Census Town,Kanniyakumari,30,1180,76,0.55,21,55,61,4.3,520
+Mallamooppampatti,Census Town,Salem,30,940,78,0.62,25,50,64,4.4,530
+Mallankinaru,Town Panchayat,Virudhunagar,30,980,80,0.60,30,45,64,4.3,530
+Mallasamudram,Town Panchayat,Namakkal,30,1030,79,0.66,24,50,66,4.1,535
+Mallur,Town Panchayat,Salem,30,1060,77,0.68,28,55,63,4.0,540
+Malumichampatti,Census Town,Coimbatore,30,1020,75,0.64,22,50,64,4.2,545
+Mamallapuram (Mahabalipuram),Town Panchayat,Kanchipuram,30,1340,78,0.62,29,60,63,4.3,530
+Mamsapuram,Town Panchayat,Virudhunagar,30,980,80,0.63,25,50,61,4.0,520
+Manachanallur,Town Panchayat,Tiruchirappalli,30,1040,82,0.59,27,45,64,4.1,550
+Manakudi,Census Town,Kanniyakumari,30,1190,79,0.57,30,50,63,4.2,540
+Manali,Municipality,Thiruvallur,30,1100,81,0.60,22,55,63,4.3,560
+Manalmedu,Town Panchayat,Nagapattinam,30,990,77,0.67,26,50,61,4.1,535
+Manalurpet,Town Panchayat,Viluppuram,30,970,78,0.55,29,50,64,4.1,530
+Manamadurai,Town Panchayat,Sivaganga,30,1010,79,0.62,24,55,64,4.2,545
+Manapakkam,Census Town,Kanchipuram,30,1020,76,0.73,28,50,63,4.3,540
+Manapparai,Municipality,Tiruchirappalli,30,1080,80,0.50,21,45,63,4.0,560
+Manavalakurichi,Town Panchayat,Kanniyakumari,30,1270,74,0.57,30,60,64,4.2,530
+Mancad,Census Town,Kanniyakumari,30,920,75,0.61,27,50,63,4.3,550
+Mandaikadu,Town Panchayat,Kanniyakumari,30,1130,73,0.66,23,55,63,4.1,520
+Mandapam,Town Panchayat,Ramanathapuram,30,1350,76,0.63,25,60,64,4.3,535
+Mangadu,Town Panchayat,Kanchipuram,30,1010,78,0.58,29,50,63,4.2,530
+Mangalam,Census Town,Tiruppur,30,990,80,0.62,21,45,64,4.0,540
+Mangalampet,Town Panchayat,Cuddalore,30,980,79,0.64,26,50,63,4.1,545
+Manickapuram,Census Town,Tiruppur,30,970,78,0.56,22,55,61,4.2,560
+Manimutharu,Town Panchayat,Tirunelveli,30,1320,81,0.68,28,50,66,4.3,550
+Manjakollai,Census Town,Nagapattinam,30,940,75,0.62,30,45,63,4.4,530
+Manjalumoodu,Census Town,Kanniyakumari,30,1250,77,0.65,24,50,61,4.1,520
+Mannarai,Census Town,Tiruppur,30,1040,76,0.65,29,55,64,4.2,535
+Mannargudi,Municipality,Thiruvarur,30,1260,74,0.59,25,50,63,4.2,550
+Manthithoppu,Census Town,Thoothukkudi,30,970,78,0.60,22,45,64,4.2,520
+Mappilaiurani,Census Town,Thoothukkudi,30,990,75,0.66,28,50,66,4.3,530
+Maraimalainagar,Municipality,Kanchipuram,30,1020,79,0.65,30,55,61,4.4,540
+Marakkanam,Town Panchayat,Viluppuram,30,1120,80,0.66,26,50,63,4.2,550
+Maramangalathupatti,Census Town,Salem,30,970,81,0.63,21,45,64,4.3,530
+Marandahalli,Town Panchayat,Dharmapuri,30,1090,76,0.60,25,50,63,4.1,535
+Markayankottai,Town Panchayat,Theni,30,970,78,0.62,28,55,63,4.3,520
+Marudur,Town Panchayat,Karur,30,1050,79,0.58,24,50,64,4.0,530
+Marungur (Marungoor),Town Panchayat,Kanniyakumari,30,1030,76,0.65,30,45,63,4.5,540
+Maruthancode,Census Town,Kanniyakumari,30,1170,78,0.60,27,50,64,4.2,535
+Masinaickenpatty,Census Town,Salem,30,920,80,0.62,23,55,64,4.1,530
+Mathicode,Census Town,Kanniyakumari,30,1230,79,0.63,26,50,64,4.0,545
+Mathigiri,Town Panchayat,Krishnagiri,30,980,77,0.65,29,45,63,4.1,530
+Mathur,Census Town,Thiruvallur,30,970,75,0.60,22,50,63,4.2,540
+Mayiladuthurai,Municipality,Nagapattinam,30,1290,78,0.58,30,55,64,4.1,550
+Mecheri,Town Panchayat,Salem,30,1010,80,0.70,24,50,63,4.1,545
+Medavakkam,Census Town,Kanchipuram,30,1000,82,0.62,27,45,64,4.3,530
+Meenambakkam,Town Panchayat with Outgrowth,Kanchipuram,30,1120,79,0.59,23,50,66,4.2,550
+Melacheval,Town Panchayat,Tirunelveli,30,970,81,0.63,26,55,64,4.0,535
+Melachokkanathapuram,Town Panchayat,Theni,30,940,77,0.65,28,50,63,4.2,540
+Melagaram,Town Panchayat,Tirunelveli,30,970,78,0.61,30,45,64,4.2,545
+Melamadai,Census Town,Madurai,30,980,79,0.64,22,50,61,4.1,550
+Melaparthibanur,Census Town,Ramanathapuram,30,890,76,0.60,27,55,63,4.2,545
+Melathiruppanthuruthi,Town Panchayat,Thanjavur,30,1030,80,0.57,25,50,64,4.3,545
+Melattur,Town Panchayat,Thanjavur,30,980,74,0.59,28,45,61,4.0,530
+Melpattampakkam,Town Panchayat,Cuddalore,30,970,75,0.68,23,50,63,4.2,520
+Melur,Municipality,Madurai,30,1020,73,0.62,30,55,64,4.1,535
+Melvisharam,Municipality,Vellore,30,990,76,0.63,24,50,63,4.0,530
+Methukummal,Census Town,Kanniyakumari,30,1240,78,0.64,29,45,63,4.2,540
+Mettamalai,Census Town,Virudhunagar,30,970,80,0.67,21,50,64,4.1,530
+Mettunasuvanpalayam,Census Town,Erode,30,930,79,0.62,25,55,61,4.2,530
+Mettupalayam,Municipality,Coimbatore,30,1150,78,0.65,27,50,63,4.3,545
+Mettupalayam,Town Panchayat,Tiruchirappalli,30,1150,81,0.61,30,50,63,4.0,535
+Mettur,Municipality,Salem,33,1120,75,0.66,25,55,61,4.1,540
+Mevalurkuppam,Census Town,Kanchipuram,32,970,77,0.58,28,50,64,4.2,545
+Midalam,Census Town,Kanniyakumari,32,1350,76,0.60,22,45,63,4.3,545
+Milavittan,Census Town,Thoothukkudi,33,1180,74,0.61,30,50,63,4.1,530
+Minampalli-Pachamadevi,Census Town,Karur,32,1020,78,0.63,26,55,63,4.0,550
+Minjur,Town Panchayat,Thiruvallur,34,1100,75,0.62,29,50,64,4.3,520
+Modakurichi,Town Panchayat,Erode,33,970,79,0.59,21,45,63,4.2,535
+Mohanur,Town Panchayat,Namakkal,33,1040,80,0.66,27,50,61,4.4,530
+Molachur,Census Town,Kanchipuram,32,940,81,0.60,23,55,64,4.2,540
+Mookondapalli,Census Town,Krishnagiri,33,1010,76,0.61,28,50,17,4.1,545
+Moolakaraipatti,Town Panchayat,Tirunelveli,32,1050,78,0.65,24,50,66,4.3,530
+Moovarasampettai,Census Town,Kanchipuram,32,990,79,0.55,29,55,67,4.2,550
+Mopperipalayam,Town Panchayat,Coimbatore,33,960,76,0.60,22,50,65,4.4,530
+Morattupalayam,Census Town,Tiruppur,33,980,78,0.56,30,45,67,4.1,540
+Mudukulathur,Town Panchayat,Ramanathapuram,33,1130,80,0.63,25,50,66,4.3,545
+Mugalivakkam,Census Town,Kanchipuram,33,980,79,0.61,28,55,65,4.0,530
+Mukasipidariyur,Census Town,Erode,32,930,77,0.62,21,50,66,4.2,540
+Mukkudal,Town Panchayat,Tirunelveli,32,1260,75,0.63,27,45,67,4.1,545
+Mulagumudu,Town Panchayat,Kanniyakumari,32,1190,78,0.58,22,50,70,4.2,540
+Mulanur,Town Panchayat,Tiruppur,33,970,80,0.55,29,55,66,4.3,550
+Mullipattu,Census Town,Tiruvannamalai,32,940,82,0.63,24,50,65,4.4,530
+Muruganpalayam,Census Town,Tiruppur,33,1020,79,0.65,26,45,66,4.3,535
+Musiri,Town Panchayat,Tiruchirappalli,33,1110,81,0.58,30,50,67,4.1,540
+Muthanampalayam,Census Town,Tiruppur,32,980,77,0.72,23,55,65,4.0,545
+Muthugoundam Pudur,Census Town,Coimbatore,32,920,78,0.60,27,50,66,4.2,530
+Muthukadu,Census Town,Kanchipuram,32,1340,79,0.65,21,45,65,4.3,520
+Muthupet,Town Panchayat,Thiruvarur,31,1380,76,0.55,29,50,67,4.0,550
+Muthur,Town Panchayat,Tiruppur,33,1050,80,0.62,25,55,66,4.1,540
+Muttayyapuram,Census Town,Thoothukkudi,32,970,74,0.60,28,50,64,4.2,560
+Muzhucode,Census Town,Kanniyakumari,31,1250,75,0.66,22,45,64,4.3,535
+Mylaudy (Myladi),Town Panchayat,Kanniyakumari,32,1320,73,0.68,30,50,63,4.1,530
+Nadaikavu,Census Town,Kanniyakumari,32,1180,76,0.64,26,55,64,4.1,545
+Nadukuthagai,Census Town,Thiruvallur,33,940,78,0.62,21,50,63,4.2,540
+Naduvaneri,Census Town,Salem,32,970,80,0.63,27,45,64,4.3,560
+Naduvattam,Town Panchayat,The Nilgiris,33,1230,79,0.59,24,50,63,4.0,530
+Nagamalaipudukottai,Census Town,Madurai,32,1010,78,0.57,28,55,64,4.2,550
+Nagamangalam,Census Town,Tiruchirappalli,33,980,81,0.60,30,50,64,4.3,520
+Nagapattinam,Municipality,Nagapattinam,31,1370,75,0.67,25,45,64,4.1,535
+Nagavakulam,Census Town,Madurai,30,940,77,0.55,22,50,63,4.3,530
+Nagercoil,Municipality,Kanniyakumari,32,1400,76,0.62,29,55,64,4.2,540
+Nagojanahalli,Town Panchayat,Krishnagiri,33,970,74,0.73,21,50,63,4.0,545
+Nallampatti,Town Panchayat,Erode,33,980,78,0.50,26,45,64,4.1,560
+Nallipalayam,Census Town,Namakkal,33,1020,75,0.57,30,50,63,4.2,550
+Nalloor (Nallur),Town Panchayat,Kanniyakumari,32,1010,79,0.61,27,55,64,4.3,530
+Nallur,Census Town,Tirunelveli,33,1010,80,0.66,23,50,61,4.4,520
+Nallur $,Census Town,Thiruvallur,33,1060,81,0.63,28,45,63,4.1,535
+Namagiripettai,Town Panchayat,Namakkal,32,1150,76,0.58,25,50,64,4.2,550
+Namakkal,Municipality,Namakkal,33,1040,78,0.62,29,55,63,4.2,520
+Nambiyur,Town Panchayat,Erode,32,970,79,0.64,21,50,64,4.2,530
+Nandambakkam,Town Panchayat,Kanchipuram,33,1020,72,0.56,30,50,63,4.3,540
+Nandivaram - Guduvancheri,Town Panchayat,Kanchipuram,32,1010,76,0.68,24,55,63,4.4,550
+Nangavalli,Town Panchayat,Salem,32,980,78,0.62,28,50,64,4.2,530
+Nangavaram,Town Panchayat,Karur,31,1200,80,0.65,22,45,64,4.3,530
+Nanguneri,Town Panchayat,Tirunelveli,33,1030,79,0.65,27,50,63,4.1,535
+Nanjikottai,Census Town,Thanjavur,32,1280,77,0.59,29,55,64,4.3,550
+Nannilam,Town Panchayat,Thiruvarur,33,970,75,0.60,25,50,63,4.0,520
+Naranammalpuram,Town Panchayat,Tirunelveli,33,980,78,0.66,21,45,64,4.5,540
+Naranapuram,Census Town,Virudhunagar,33,1040,80,0.65,30,50,63,4.2,545
+Narasimhanaicken-palayam,Town Panchayat,Coimbatore,32,970,82,0.66,24,55,63,4.1,530
+Narasingam,Census Town,Madurai,33,1020,79,0.63,28,50,61,4.0,545
+Narasingapuram,Census Town,Vellore,32,1030,81,0.60,22,45,64,4.1,535
+Narasingapuram,Municipality,Salem,33,1010,77,0.62,27,50,64,4.2,520
+Naravarikuppam,Town Panchayat,Thiruvallur,32,1150,78,0.58,29,55,66,4.1,530
+Nasiyanur,Town Panchayat,Erode,32,1080,79,0.65,25,50,63,4.1,545
+Natchiarkoil,Census Town,Thanjavur,33,970,76,0.60,30,45,64,4.3,535
+Natham,Town Panchayat,Dindigul,32,990,80,0.62,22,50,63,4.2,540
+Nathampannai,Census Town,Pudukkottai,33,1320,74,0.63,28,55,61,4.0,520
+Natrampalli,Town Panchayat,Vellore,32,980,75,0.65,24,50,64,4.2,535
+Nattalam,Census Town,Kanniyakumari,33,1050,73,0.60,27,45,63,4.2,580
+Nattapettai,Census Town,Kanchipuram,32,980,76,0.58,21,50,63,4.1,575
+Nattarasankottai,Town Panchayat,Sivaganga,31,970,78,0.70,29,55,61,4.2,590
+Navalpattu,Census Town,Tiruchirappalli,32,1010,80,0.62,25,50,64,4.3,600
+Navlock Garden,Census Town,Vellore,32,1100,79,0.59,30,45,64,4.0,570
+Nazarathpettai,Census Town,Thiruvallur,33,1020,78,0.63,28,50,63,4.2,540
+Nazerath,Town Panchayat,Thoothukkudi,32,1280,81,0.65,22,55,63,4.1,550
+Nedungundram,Census Town,Kanchipuram,31,1010,75,0.61,27,50,64,4.0,530
+Needamangalam,Town Panchayat,Thiruvarur,32,970,77,0.64,24,45,63,4.2,535
+Neelagiri,Census Town,Thanjavur,33,1150,76,0.60,30,50,63,4.1,520
+Neelambur,Census Town,Coimbatore,32,1020,74,0.57,21,55,64,4.2,530
+Neelankarai,Census Town,Kanchipuram,32,1130,78,0.59,29,50,63,4.3,540
+Neikkarapatti,Town Panchayat,Dindigul,33,980,75,0.68,25,45,64,4.0,535
+Nellikuppam,Municipality,Cuddalore,31,970,79,0.62,28,50,63,4.1,530
+Nelliyalam,Municipality,The Nilgiris,32,1010,80,0.63,22,55,61,4.2,545
+Nemili,Town Panchayat,Vellore,33,1020,81,0.64,27,50,66,4.3,530
+Nemilicheri,Census Town,Thiruvallur,32,1010,76,0.67,24,45,63,4.1,540
+Neripperichal,Census Town,Tiruppur,33,980,78,0.62,30,50,61,4.0,550
+Nerkunram (Nerkundram),Census Town,Thiruvallur,32,990,79,0.65,21,55,64,4.3,545
+Nerkuppai,Town Panchayat,Sivaganga,32,970,76,0.61,29,50,63,4.2,530
+Nerunjipettai,Town Panchayat,Erode,33,1250,78,0.66,25,45,64,4.4,550
+Neykkarappatti,Census Town,Salem,31,1340,80,0.58,30,50,66,4.2,535
+Neyveli,Township,Cuddalore,32,980,79,0.60,22,55,61,4.1,540
+Neyyoor,Town Panchayat,Kanniyakumari,33,1060,77,0.61,28,50,63,4.3,545
+Nilaiyur I Bit,Census Town,Madurai,32,970,75,0.63,24,45,64,4.2,550
+Nilakkottai,Town Panchayat,Dindigul,33,1180,78,0.62,27,50,63,4.4,545
+Nolambur,Census Town,Thiruvallur,31,940,80,0.59,29,55,63,4.1,545
+Nullivilai,Census Town,Kanniyakumari,32,1020,82,0.66,21,50,64,4.3,530
+Odaipatti,Town Panchayat,Theni,33,1120,79,0.60,25,45,63,4.0,520
+Odaiyakulam,Town Panchayat,Coimbatore,32,980,81,0.61,30,50,64,4.2,535
+Oddanchatram,Town Panchayat,Dindigul,31,1240,77,0.65,24,55,64,4.1,530
+Odugathur,Town Panchayat,Vellore,32,980,78,0.55,27,50,64,4.2,540
+Oggiyamduraipakkam,Census Town,Kanchipuram,33,1200,79,0.60,28,45,63,4.3,530
+Olagadam,Town Panchayat,Erode,33,1050,76,0.56,22,50,63,4.4,530
+Omalur,Town Panchayat,Salem,32,1070,80,0.63,30,55,64,4.3,545
+Orathanadu (Mukthambalpuram),Town Panchayat,Thanjavur,33,1250,74,0.61,25,50,63,4.1,535
+Orikkai,Census Town,Kanchipuram,32,1180,75,0.62,27,45,64,4.0,540
+Othakadai,Census Town,Madurai,33,1120,73,0.63,29,50,66,4.2,545
+Othakalmandapam,Town Panchayat,Coimbatore,32,1020,76,0.58,24,55,64,4.3,545
+Ottapparai,Census Town,Erode,31,980,78,0.55,21,50,63,4.0,530
+O' Valley,Town Panchayat,The Nilgiris,32,1360,80,0.63,30,45,64,4.1,550
+Overi,Census Town,Tirunelveli,33,1190,79,0.65,26,50,61,4.2,520
+Pachchal,Census Town,Vellore,32,1010,78,0.58,23,50,63,4.3,535
+Pacode,Town Panchayat,Kanniyakumari,31,1350,81,0.72,29,55,64,4.1,530
+Padaiveedu,Town Panchayat,Namakkal,33,980,75,0.60,25,50,61,4.1,540
+Padandal,Census Town,Virudhunagar,32,1050,77,0.65,28,45,63,4.2,545
+Padappai,Census Town,Kanchipuram,33,1120,76,0.55,30,50,64,4.3,530
+Padianallur,Census Town,Thiruvallur,32,1180,74,0.62,22,55,63,4.0,550
+Padikkasu vaithanpatti,Census Town,Virudhunagar,33,990,78,0.60,27,50,63,4.2,530
+Padirikuppam,Census Town,Cuddalore,32,980,75,0.66,21,45,64,4.3,540
+Padmanabhapuram,Municipality,Kanniyakumari,32,1400,79,0.68,29,50,61,4.1,545
+Painkulam,Census Town,Kanniyakumari,33,1130,80,0.64,25,55,63,4.3,530
+Paiyur,Census Town,Tiruvannamalai,32,1070,81,0.62,30,50,63,4.2,540
+Palaganangudy,Census Town,Tiruchirappalli,33,1050,76,0.63,28,45,61,4.0,545
+Palakkodu,Town Panchayat,Dharmapuri,32,1020,78,0.59,22,50,64,4.1,540
+Palamedu,Town Panchayat,Madurai,33,1060,79,0.57,27,55,63,4.2,550
+Palangarai,Census Town,Tiruppur,32,1010,76,0.60,24,50,63,4.3,530
+Palani,Municipality,Dindigul,33,1150,78,0.67,30,45,63,4.4,535
+Palani Chettipatti,Town Panchayat,Theni,32,1090,80,0.55,21,50,64,4.1,540
+Palappallam,Town Panchayat,Kanniyakumari,33,1030,79,0.62,29,55,63,4.2,545
+Palavakkam,Census Town,Kanchipuram,32,1220,77,0.73,26,50,61,4.2,530
+Palavansathu,Census Town,Vellore,33,980,75,0.50,25,45,64,4.2,520
+Palayam,Town Panchayat,Dindigul,32,970,78,0.57,28,50,17,4.3,550
+Palayampatti,Census Town,Virudhunagar,33,990,80,0.61,30,55,63,4.4,540
+Palladam,Municipality,Tiruppur,32,1070,82,0.66,22,50,63,4.2,560
+Pallanthurai,Census Town,Kanniyakumari,33,970,79,0.63,27,45,64,4.3,535
+Pallapalayam,Town Panchayat,Erode,32,1020,81,0.58,24,50,64,4.1,530
+Pallapalayam,Town Panchayat,Coimbatore,33,980,77,0.62,29,55,65,4.3,545
+Pallapatti,Town Panchayat,Karur,32,1010,78,0.64,25,50,66,4.0,540
+Pallapatti,Census Town,Virudhunagar,33,1280,79,0.56,30,45,67,4.5,560
+Pallathur,Town Panchayat,Sivaganga,32,1300,76,0.68,21,50,64,4.2,530
+Pallavaram,Municipality with Outgrowth,Kanchipuram,33,1090,80,0.62,28,55,65,4.1,550
+Pallikaranai,Town Panchayat,Kanchipuram,32,1060,74,0.65,22,50,66,4.0,520
+Pallikonda,Town Panchayat,Vellore,33,1040,75,0.65,27,45,67,4.1,535
+Pallipalayam,Municipality,Namakkal,32,1010,73,0.59,25,50,63,4.2,530
+Pallipalayam Agraharam,Census Town,Namakkal,33,970,76,0.60,30,55,64,4.1,540
+Pallipattu,Town Panchayat,Thiruvallur,32,1020,78,0.66,29,50,65,4.1,545
+Pallippadai,Census Town,Cuddalore,33,1190,80,0.65,24,45,66,4.3,560
+Paloor,Census Town,Kanniyakumari,32,1230,79,0.66,21,50,67,4.2,550
+Palugal,Town Panchayat,Kanniyakumari,33,1320,78,0.63,28,55,64,4.0,530
+Pammal,Municipality,Kanchipuram,32,1070,81,0.60,22,50,61,4.2,520
+Panagudi,Town Panchayat,Tirunelveli,33,1090,75,0.62,27,45,62,4.2,535
+Panaimarathupatti,Town Panchayat,Salem,32,1030,77,0.58,25,50,65,4.1,550
+Panapakkam,Town Panchayat,Vellore,33,980,76,0.65,30,55,66,4.2,520
+Pandamangalam,Town Panchayat,Namakkal,32,1250,74,0.60,28,50,67,4.3,530
+Pandavarmangalam,Census Town,Thoothukkudi,33,1020,78,0.62,22,45,65,4.0,540
+Pannaikadu,Town Panchayat,Dindigul,32,1350,75,0.63,27,50,66,4.2,550
+Pannaipuram,Town Panchayat,Theni,33,1260,79,0.65,24,55,64,4.1,530
+Panpoli,Town Panchayat,Tirunelveli,32,1370,80,0.60,30,50,65,4.0,530
+Panruti,Municipality,Cuddalore,33,970,81,0.58,21,45,66,4.2,535
+Papanasam,Town Panchayat,Thanjavur,32,980,76,0.70,29,50,67,4.1,550
+Pappankurichi,Census Town,Tiruchirappalli,33,1010,78,0.62,25,55,66,4.2,520
+Papparapatti,Town Panchayat,Dharmapuri,32,1050,79,0.59,28,50,65,4.3,540
+Papparapatti,Census Town,Salem,33,990,76,0.63,22,45,64,4.0,545
+Pappireddipatti,Town Panchayat,Dharmapuri,32,1400,78,0.65,27,50,63,4.1,530
+Paramakudi,Municipality,Ramanathapuram,33,1020,80,0.61,24,55,70,4.2,545
+Paramathi,Town Panchayat,Namakkal,32,1090,79,0.64,30,50,65,4.3,535
+Parangipettai,Town Panchayat,Cuddalore,33,980,77,0.60,21,45,66,4.1,520
+Paraniputhur,Census Town,Kanchipuram,32,1230,75,0.57,29,50,67,4.0,530
+Paravai,Town Panchayat,Madurai,33,970,78,0.59,25,55,64,4.3,545
+Pasur,Town Panchayat,Erode,32,990,80,0.68,28,50,65,4.2,535
+Pathamadai (Pattamadai),Town Panchayat,Tirunelveli,33,1010,82,0.62,22,45,66,4.4,540
+Pattanam,Census Town,Coimbatore,32,980,79,0.63,27,50,67,4.2,520
+Pattinam,Town Panchayat,Namakkal,33,1260,81,0.64,24,55,65,4.1,535
+Pattinamkattan,Census Town,Ramanathapuram,32,970,77,0.67,30,50,66,4.3,580
+Pattiveeranpatti,Town Panchayat,Dindigul,33,980,78,0.62,21,45,67,4.2,575
+Pattukkottai,Municipality,Thanjavur,32,1220,79,0.65,29,50,65,4.4,590
+Pavali,Census Town,Virudhunagar,33,1080,76,0.61,25,55,66,4.1,600
+Peddikuppam,Census Town,Thiruvallur,32,980,80,0.66,28,50,64,4.3,570
+Peerkankaranai,Town Panchayat with Outgrowth,Kanchipuram,33,1050,74,0.58,22,45,65,4.0,550
+Pennadam,Town Panchayat,Cuddalore,32,1030,75,0.60,27,50,67,4.2,530
+Pennagaram,Town Panchayat,Dharmapuri,33,1010,73,0.61,24,55,66,4.1,520
+Pennathur,Town Panchayat,Vellore,32,1070,76,0.63,30,50,64,4.2,535
+Peraiyur,Town Panchayat,Madurai,33,1120,78,0.62,21,45,65,4.3,550
+Peralam,Town Panchayat,Thiruvarur,32,970,80,0.59,29,50,66,4.4,520
+Perambakkam,Census Town,Thiruvallur,33,1200,79,0.66,25,55,67,4.3,530
+Perambalur,Municipality,Perambalur,32,980,78,0.60,28,50,66,4.1,540
+Peranamallur,Town Panchayat,Tiruvannamalai,33,1010,81,0.61,22,45,64,4.0,550
+Peravurani,Town Panchayat,Thanjavur,32,1340,75,0.65,27,50,65,4.2,530
+Periagaram,Census Town,Vellore,33,980,77,0.55,24,55,66,4.3,530
+Periakottai,Census Town,Tiruppur,32,1350,76,0.60,30,50,67,4.0,535
+Periapattinam (Periyapattinam),Census Town,Ramanathapuram,33,970,74,0.56,21,45,68,4.1,550
+Periyakodiveri,Town Panchayat,Erode,32,1010,78,0.63,29,50,65,4.2,520
+Periyakulam,Municipality,Theni,33,1020,75,0.61,25,55,64,4.3,540
+Periyakurichi,Census Town,Cuddalore,32,1030,79,0.62,28,50,67,4.1,545
+Periyamanali,Census Town,Namakkal,33,980,80,0.63,22,45,70,4.1,530
+Periyanaicken-palayam,Town Panchayat,Coimbatore,32,1010,81,0.56,27,50,63,4.2,545
+Periya Negamam,Town Panchayat,Coimbatore,33,970,76,0.63,24,55,68,4.3,535
+Periyapatti,Census Town,Namakkal,32,990,78,0.61,30,50,69,4.0,520
+Periyasemur,Municipality,Erode,33,950,79,0.62,28,45,65,4.2,530
+Pernampattu,Municipality,Vellore,32,1080,76,0.63,22,50,64,4.3,580
+Perumagalur,Town Panchayat,Thanjavur,33,990,78,0.50,27,55,66,4.1,570
+Perumagoundampatti,Census Town,Salem,33,980,80,0.64,24,50,63,4.3,560
+Perumanallur,Census Town,Tiruppur,32,1020,79,0.67,30,55,65,4.2,550
+Perumandi,Census Town,Thanjavur,33,1010,77,0.62,28,50,66,4.0,540
+Perundurai,Town Panchayat,Erode,32,1070,75,0.65,22,45,67,4.1,570
+Perungalathur,Town Panchayat,Kanchipuram,33,1250,78,0.61,30,50,63,4.2,560
+Perungudi,Town Panchayat,Kanchipuram,32,1280,80,0.66,25,55,65,4.3,550
+Perungulam,Town Panchayat,Thoothukkudi,33,1030,82,0.58,27,50,66,4.4,530
+Perur,Town Panchayat,Coimbatore,32,1090,79,0.60,29,45,68,4.1,560
+Perur Chettipalayam,Census Town,Coimbatore,33,1010,81,0.61,24,50,66,4.2,570
+Peruvilai,Census Town,Kanniyakumari,32,1220,77,0.63,30,55,64,4.2,520
+Pethampalayam,Town Panchayat,Erode,33,1010,78,0.62,21,50,65,4.2,560
+Pethanaickenpalayam,Town Panchayat,Salem,32,980,79,0.59,26,45,66,4.3,550
+Pichandarkovil,Census Town,Tiruchirappalli,33,1050,76,0.66,25,50,67,4.4,530
+Pillanallur,Town Panchayat,Namakkal,32,970,80,0.60,28,55,66,4.2,550
+P. J. Cholapuram,Town Panchayat,Karur,33,1020,74,0.61,22,50,67,4.3,570
+P. Mettupalayam,Town Panchayat,Erode,32,990,75,0.65,27,45,65,4.1,560
+P. N. Patti,Town Panchayat,Salem,33,1010,73,0.55,24,50,66,4.3,550
+Polichalur,Census Town,Kanchipuram,32,1200,76,0.60,30,55,65,4.0,570
+Pollachi,Municipality,Coimbatore,33,1350,78,0.56,21,50,64,4.5,520
+Polur,Town Panchayat,Tiruvannamalai,32,1090,80,0.63,29,45,66,4.2,550
+Ponmanai,Town Panchayat,Kanniyakumari,33,1180,79,0.61,25,50,70,4.1,560
+Ponnamaravathi,Town Panchayat,Pudukkottai,32,1070,78,0.62,28,55,68,4.0,570
+Ponnampatti,Town Panchayat,Tiruchirappalli,33,1010,81,0.63,22,50,66,4.1,530
+Ponneri,Town Panchayat,Thiruvallur,32,1220,75,0.58,27,45,67,4.2,550
+Poolambadi,Town Panchayat,Perambalur,33,970,77,0.55,24,50,65,4.1,570
+Poolampatti,Town Panchayat,Salem,32,980,76,0.63,30,55,66,4.1,560
+Poolankinar,Census Town,Tiruppur,33,1030,74,0.65,21,50,67,4.3,550
+Pooluvapatti,Town Panchayat,Coimbatore,32,1020,78,0.58,29,45,66,4.2,530
+Poonamallee,Municipality with Outgrowth,Thiruvallur,33,1270,75,0.72,25,50,64,4.0,570
+Poravacheri,Census Town,Nagapattinam,32,990,79,0.60,28,55,68,4.2,550
+Porur,Town Panchayat,Thiruvallur,33,1240,80,0.65,22,50,66,4.2,560
+Pothanur,Town Panchayat,Namakkal,32,1010,81,0.55,27,45,70,4.1,570
+Pothatturpettai,Town Panchayat,Thiruvallur,33,970,76,0.62,24,50,66,4.2,550
+Pudiyamputhur,Census Town,Thoothukkudi,32,980,78,0.60,30,55,67,4.3,530
+Pudukkottai,Census Town,Pudukkottai,33,1100,79,0.66,21,50,65,4.0,570
+Pudukkottai,Municipality,Pudukkottai,32,1050,76,0.68,29,45,70,4.2,570
+Pudupalayam,Town Panchayat,Tiruvannamalai,33,1010,78,0.64,25,50,65,4.1,560
+Pudupalayam Agraharam,Census Town,Namakkal,32,970,80,0.62,28,55,68,4.0,550
+Pudupatti,Town Panchayat,Theni,33,1300,79,0.63,22,50,66,4.2,570
+Pudupattinam,Census Town,Kanchipuram,32,1010,77,0.59,27,45,67,4.1,530
+Pudupattinam,Census Town,Thanjavur,33,1030,75,0.57,24,50,65,4.2,530
+Pudur (S),Town Panchayat,Tirunelveli,32,1260,78,0.60,30,55,69,4.3,550
+Puduvayal,Town Panchayat,Sivaganga,33,980,80,0.67,21,50,68,4.0,560
+Puliankudi (Puliyankudi),Municipality,Tirunelveli,32,1070,82,0.55,29,45,66,4.1,570
+Puliyoorsalai,Census Town,Kanniyakumari,33,1020,79,0.62,25,50,67,4.2,530
+Puliyur,Town Panchayat,Karur,32,970,81,0.73,28,55,68,4.3,550
+Pullampadi (Pullambadi),Town Panchayat,Tiruchirappalli,33,980,77,0.50,22,50,65,4.1,570
+Punjaipugalur,Town Panchayat,Karur,32,1010,78,0.57,27,45,66,4.0,560
+Punjaipuliampatti,Municipality,Erode,33,970,79,0.61,24,50,67,4.3,550
+Punjai Thottakurichi,Town Panchayat,Karur,32,980,76,0.66,30,55,65,4.2,530
+Puthagaram,Census Town,Thiruvallur,33,990,80,0.63,21,50,64,4.4,550
+Puthalam,Town Panchayat,Kanniyakumari,32,1230,74,0.58,29,45,67,4.2,570
+Putheri,Census Town,Kanniyakumari,33,1010,75,0.62,25,50,65,4.1,560
+Puthukkadai,Town Panchayat,Kanniyakumari,32,1020,73,0.64,28,55,63,4.3,550
+Puthur Agraharam,Census Town,Salem,33,1210,76,0.56,22,50,63,4.2,530
+Puvalur (Poovalur),Town Panchayat,Tiruchirappalli,32,1230,78,0.68,27,45,63,4.4,550
+Puzhal,Town Panchayat,Thiruvallur,33,1150,80,0.62,24,50,66,4.1,560
+Puzhithivakkam (Ullagaram),Municipality,Kanchipuram,32,1010,79,0.65,30,55,68,4.3,570
+Rajapalayam,Municipality,Virudhunagar,33,1090,78,0.65,21,50,66,4.0,570
+Rajapalayam,Census Town,Salem,32,1180,81,0.59,29,45,65,4.2,570
+Ramalingapuram,Census Town,Virudhunagar,33,1350,75,0.60,25,50,66,4.1,550
+Ramanathapuram,Municipality,Ramanathapuram,32,1120,77,0.66,28,55,65,4.2,560
+Ramapuram,Census Town,Thiruvallur,33,1070,76,0.65,22,50,67,4.3,570
+Rameswaram,Municipality,Ramanathapuram,32,1010,74,0.66,27,45,67,4.4,520
+Ranipettai (Ranipet),Municipality,Vellore,33,1190,78,0.63,24,50,64,4.3,550
+Rasipuram,Municipality,Namakkal,32,970,75,0.60,30,55,62,4.1,560
+Rayagiri,Town Panchayat,Tirunelveli,33,980,79,0.62,21,50,61,4.0,570
+Reethapuram,Town Panchayat,Kanniyakumari,32,1020,80,0.58,29,45,66,4.2,530
+Rosalpatti,Census Town,Virudhunagar,33,990,81,0.65,25,50,65,4.3,550
+R. Pudupatti,Town Panchayat,Namakkal,32,970,76,0.60,28,55,66,4.0,570
+R. S. Mangalam,Town Panchayat,Ramanathapuram,33,980,78,0.62,22,50,67,4.1,560
+Rudravathi,Town Panchayat,Tiruppur,32,1010,79,0.63,27,45,68,4.2,550
+Sakkarakottai,Census Town,Ramanathapuram,33,1030,76,0.65,24,50,65,4.3,550
+Sakkimangalam,Census Town,Madurai,32,1200,78,0.60,30,55,66,4.1,560
+Salamedu,Census Town,Viluppuram,33,1020,80,0.58,21,50,67,4.1,570
+Salangapalayam,Town Panchayat,Erode,32,1010,79,0.62,29,45,68,4.2,550
+Salem,Municipal Corporation,Salem,33,980,77,0.63,25,50,70,4.3,570
+Samalapuram,Town Panchayat,Tiruppur,32,990,75,0.56,28,55,66,4.0,560
+Samanatham,Census Town,Madurai,33,970,78,0.63,22,50,67,4.2,550
+Samathur,Town Panchayat,Coimbatore,32,1010,80,0.61,27,45,68,4.3,530
+Samayanallur,Census Town,Madurai,33,980,82,0.62,24,50,63,4.1,570
+Sambavar Vadagarai,Town Panchayat,Tirunelveli,32,1080,79,0.63,30,55,65,4.3,550
+Samusigapuram,Census Town,Virudhunagar,33,990,81,0.50,21,50,67,4.2,560
+Sankaramanallur,Town Panchayat,Tiruppur,32,970,77,0.64,29,45,66,4.0,570
+Sankarankoil (Sankarankovil),Municipality,Tirunelveli,33,1090,78,0.67,25,50,68,4.1,560
+Sankaraperi,Census Town,Thoothukkudi,32,980,79,0.62,28,55,66,4.2,550
+Sankarapuram,Town Panchayat,Viluppuram,33,970,76,0.65,22,50,69,4.3,530
+Sankarapuram,Census Town,Sivaganga,32,1120,80,0.61,27,45,66,4.4,570
+Sankari (Sankagiri),Town Panchayat,Salem,33,1010,74,0.66,24,50,67,4.1,560
+Sankarnagar,Town Panchayat,Tirunelveli,32,1230,75,0.58,30,55,66,4.2,550
+Sanniyasigundu,Census Town,Salem,33,980,73,0.60,21,50,67,4.2,570
+Saravanampatti,Town Panchayat,Coimbatore,32,1010,76,0.61,29,45,66,4.2,560
+Sarcarsamakulam,Town Panchayat,Coimbatore,33,1020,78,0.63,25,50,67,4.3,550
+Sathankulam,Town Panchayat,Thoothukkudi,32,1150,80,0.62,28,55,65,4.4,530
+Sathiyavijayanagaram,Census Town,Tiruvannamalai,33,1080,79,0.59,22,50,66,4.2,570
+Sathkar,Census Town,Vellore,32,1030,78,0.66,27,45,67,4.3,560
+Sathuvachari (Sathuvacheri),Municipality,Vellore,33,750,81,0.60,24,50,66,4.1,550
+Sathyamangalam,Municipality,Erode,32,800,75,0.61,30,55,65,4.3,570
+Sattur,Municipality,Virudhunagar,33,1200,77,0.65,24,50,67,4.0,560
+Sayalgudi,Town Panchayat,Ramanathapuram,32,1200,76,0.55,30,45,70,4.5,550
+Sayapuram,Town Panchayat,Thoothukkudi,30,970,74,0.60,27,50,68,4.2,530
+Seerapalli,Town Panchayat,Namakkal,30,980,78,0.56,22,55,67,4.1,550
+Seithur,Town Panchayat,Virudhunagar,30,1050,75,0.63,30,50,65,4.0,560
+Selathampatti,Census Town,Salem,30,1010,79,0.61,25,45,66,4.1,570
+Sembakkam,Town Panchayat,Kanchipuram,30,1230,80,0.62,28,50,65,4.2,550
+Sembedu,Census Town,Vellore,30,1020,81,0.63,21,55,66,4.1,530
+Sembianallur,Census Town,Tiruppur,30,980,76,0.58,29,50,68,4.1,550
+Semmipalayam,Census Town,Tiruppur,30,990,78,0.55,24,45,70,4.3,570
+Senapiratti,Census Town,Karur,30,970,79,0.63,30,50,66,4.2,560
+Sengamalanachiarpatti,Census Town,Virudhunagar,30,990,76,0.65,21,55,68,4.0,550
+Senneerkuppam,Census Town,Thiruvallur,30,1210,78,0.58,27,50,67,4.2,530
+Senthamangalam,Town Panchayat,Namakkal,30,1020,80,0.72,22,45,66,4.2,550
+Sentharapatti,Town Panchayat,Salem,30,970,79,0.60,29,50,68,4.1,570
+Senur,Census Town,Vellore,30,990,77,0.65,25,55,66,4.2,560
+Sethiathoppu,Town Panchayat,Cuddalore,30,1010,75,0.55,28,50,67,4.3,550
+Sevilimedu,Town Panchayat,Kanchipuram,30,1030,78,0.62,21,45,65,4.0,530
+Sevugampatti,Town Panchayat,Dindigul,30,970,80,0.62,30,50,70,4.2,550
+Sevur,Census Town,Vellore,30,980,82,0.63,24,55,67,4.1,570
+Sevur,Census Town,Tiruvannamalai,30,1010,79,0.56,29,50,69,4.0,560
+Shenbakkam,Town Panchayat,Vellore,30,1260,81,0.63,25,45,67,4.2,550
+Shenkottai (Sengottai),Municipality,Tirunelveli,30,1080,77,0.61,28,50,66,4.1,570
+Sholavandan,Town Panchayat,Madurai,30,1270,78,0.62,22,55,67,4.2,560
+Sholinganallur,Town Panchayat with Outgrowth,Kanchipuram,30,1150,79,0.63,27,50,65,4.3,550
+Sholingur (Sholinghur),Town Panchayat,Vellore,30,1290,76,0.50,24,45,70,4.0,530
+Sholur,Town Panchayat,The Nilgiris,30,1010,80,0.64,30,50,66,4.1,550
+Sikkarayapuram,Census Town,Kanchipuram,30,990,74,0.67,21,55,65,4.2,570
+Silaiman,Census Town,Madurai,30,980,75,0.62,29,50,67,4.3,560
+Silapadi,Census Town,Dindigul,30,1010,73,0.65,25,45,66,4.1,550
+Singampuneri (Singampunari),Town Panchayat,Sivaganga,30,1230,76,0.61,28,50,65,4.0,530
+Singaperumalkoil,Census Town,Kanchipuram,30,1010,78,0.66,22,55,67,4.3,550
+Sircar Periapalayam,Census Town,Tiruppur,30,1350,80,0.58,27,50,68,4.2,570
+Sirkali (Sirkazhi),Municipality,Nagapattinam,30,1020,79,0.60,24,45,66,4.4,560
+Sirugamani,Town Panchayat,Tiruchirappalli,30,970,78,0.61,30,50,70,4.2,550
+Sirukalathur,Census Town,Kanchipuram,30,980,81,0.63,21,55,66,4.1,530
+Sirukaveripakkam,Census Town,Kanchipuram,30,1070,75,0.62,29,50,65,4.3,550
+Sirumugai,Town Panchayat,Coimbatore,30,1010,77,0.59,25,45,66,4.2,570
+Sithayankottai,Town Panchayat,Dindigul,30,990,76,0.66,28,50,67,4.4,560
+Sithurajapuram,Census Town,Virudhunagar,30,1030,74,0.60,22,55,66,4.1,550
+Sivaganga,Municipality,Sivaganga,30,1050,78,0.61,27,50,67,4.3,530
+Sivagiri,Town Panchayat,Erode,30,990,75,0.65,24,45,65,4.0,550
+Sivagiri,Town Panchayat,Tirunelveli,30,970,79,0.55,30,50,60,4.2,570
+Sivagiripatti,Census Town,Dindigul,30,1150,80,0.60,21,55,66,4.1,560
+Sivagnanapuram,Census Town,Virudhunagar,30,980,81,0.56,29,50,67,4.2,550
+Sivakasi,Municipality,Virudhunagar,30,1010,76,0.63,25,45,65,4.3,530
+Sivanthipuram,Census Town,Tirunelveli,30,970,78,0.61,28,50,67,4.4,550
+Somayampalayam,Census Town,Coimbatore,30,980,79,0.62,22,55,66,4.3,570
+Soolakkarai,Census Town,Virudhunagar,30,990,76,0.63,27,50,65,4.1,560
+Soorapattu,Census Town,Thiruvallur,30,970,78,0.58,24,45,66,4.0,550
+South Kannanur,Town Panchayat,Tiruchirappalli,30,980,80,0.55,30,50,67,4.2,530
+South Kodikulam,Town Panchayat,Virudhunagar,30,1010,79,0.63,22,55,70,4.3,550
+South Nallur,Municipality,Tiruppur,30,1030,77,0.65,25,50,66,4.0,570
+Srikalikapuram,Census Town,Thiruvallur,30,1200,75,0.58,23,45,65,4.1,560
+Srimushnam,Town Panchayat,Cuddalore,30,970,78,0.72,21,50,66,4.2,550
+Sriperumbudur,Town Panchayat,Kanchipuram,30,1270,80,0.60,25,55,67,4.3,530
+Sriramapuram,Town Panchayat,Dindigul,30,1180,82,0.65,23,50,65,4.1,550
+Srivaikuntam,Town Panchayat,Thoothukkudi,30,1250,79,0.55,24,45,66,4.1,570
+Srivilliputhur,Municipality,Virudhunagar,30,1300,81,0.62,28,50,65,4.2,560
+St. Thomas Mount-cum-Pallavaram,Cantonment (Board),Kanchipuram,30,1010,77,0.57,20,55,67,4.3,550
+Suchindrum (Suchindram),Town Panchayat,Kanniyakumari,30,1050,78,0.59,22,50,66,4.0,530
+Suleeswaranpatti,Town Panchayat,Coimbatore,30,990,79,0.68,25,45,65,4.2,550
+Sulur,Town Panchayat,Coimbatore,30,970,76,0.62,24,50,66,4.3,570
+Sumaitheerthapuram,Census Town,Tirunelveli,30,980,80,0.63,23,55,65,4.1,560
+Sundarapandiam,Town Panchayat,Virudhunagar,30,990,74,0.64,21,50,66,4.3,550
+Sundarapandianpattinam,Census Town,Ramanathapuram,30,970,75,0.67,23,45,67,4.2,530
+Sundarapandiapuram,Town Panchayat,Tirunelveli,30,980,73,0.62,25,50,65,4.0,550
+SuPallipattu,Census Town,Vellore,30,1060,76,0.65,26,55,60,4.1,570
+Surampatti,Municipality,Erode,30,990,78,0.61,24,50,66,4.2,560
+Surandai,Town Panchayat,Tirunelveli,30,1180,80,0.66,22,45,65,4.3,550
+Suriyampalayam,Town Panchayat,Erode,30,970,79,0.58,23,50,66,4.4,530
+Swamimalai,Town Panchayat,Thanjavur,30,1260,78,0.60,24,55,67,4.1,550
+Tajpura,Census Town,Vellore,30,1350,81,0.61,22,50,70,4.2,570
+Tambaram,Municipality,Kanchipuram,30,980,75,0.63,24,45,67,4.2,560
+Tenkasi,Municipality,Tirunelveli,30,990,77,0.62,27,50,66,4.2,550
+Terkukallikulam,Census Town,Tirunelveli,30,1020,76,0.59,25,55,70,4.3,560
+Thadikarankonam,Census Town,Kanniyakumari,30,1010,74,0.66,23,50,67,4.4,550
+Thadikombu,Town Panchayat,Dindigul,30,1270,78,0.60,24,45,66,4.2,530
+Thakkolam,Town Panchayat,Vellore,30,1010,75,0.61,21,50,65,4.3,550
+Thalainayar,Town Panchayat,Nagapattinam,30,990,79,0.65,22,55,66,4.1,570
+Thalakudi,Census Town,Tiruchirappalli,30,1050,80,0.55,24,50,65,4.3,560
+Thamaraikulam,Town Panchayat,Theni,30,1020,81,0.60,21,45,67,4.0,550
+Thammampatti,Town Panchayat,Salem,30,1200,76,0.56,22,50,65,4.5,530
+Thanakkankulam,Census Town,Madurai,30,970,78,0.63,24,55,67,4.2,550
+Thanjavur,Municipality,Thanjavur,30,980,79,0.61,30,50,70,4.1,570
+Thanthoni,Municipality,Karur,30,1010,76,0.62,21,45,66,4.0,560
+Thappakuttai,Census Town,Salem,30,1320,78,0.63,29,50,67,4.1,550
+Tharamangalam,Town Panchayat,Salem,30,970,80,0.58,25,55,66,4.2,530
+Tharangambadi,Town Panchayat,Nagapattinam,30,980,79,0.55,28,50,65,4.1,550
+Thathaiyangarpet,Town Panchayat,Tiruchirappalli,30,1010,77,0.63,22,45,67,4.1,570
+Thathankuttai,Census Town,Namakkal,30,990,75,0.65,27,50,68,4.3,560
+Thazhakudy,Town Panchayat,Kanniyakumari,30,970,78,0.58,24,55,66,4.2,550
+Thedavur,Town Panchayat,Salem,30,980,80,0.72,30,50,70,4.0,530
+Theerthagiriyampattu,Census Town,Thiruvallur,30,990,82,0.60,21,45,66,4.2,550
+Thenambakkam,Census Town,Kanchipuram,30,1290,79,0.65,29,50,65,4.2,570
+Thengampudur,Town Panchayat,Kanniyakumari,30,1030,81,0.55,25,55,66,4.1,550
+Theni Allinagaram,Municipality,Theni,30,980,77,0.62,28,50,67,4.2,530
+Thenkarai,Town Panchayat,Coimbatore,30,1020,78,0.60,22,45,66,4.3,550
+Thenkarai,Town Panchayat,Theni,30,990,79,0.66,27,50,67,4.0,570
+Thenthamaraikulam,Town Panchayat,Kanniyakumari,30,1200,76,0.68,24,55,65,4.2,560
+Thenthiruperai,Town Panchayat,Thoothukkudi,30,800,80,0.64,30,50,60,4.1,520
+Therur (Theroor),Town Panchayat,Kanniyakumari,30,990,74,0.62,21,45,66,4.0,560
+Thevaram,Town Panchayat,Theni,30,1010,75,0.63,20,50,67,4.2,570
+Thevur,Town Panchayat,Salem,30,970,73,0.59,10,55,65,4.1,550
+Thiagadurgam,Town Panchayat,Viluppuram,30,980,76,0.57,10,50,67,4.2,530
+Thikkanamcode,Census Town,Kanniyakumari,30,990,78,0.60,25,45,66,4.3,550
+Thindal,Census Town,Erode,30,1020,80,0.67,15,50,65,4.0,570
+Thingalnagar,Town Panchayat,Kanniyakumari,30,980,79,0.55,25,55,66,4.1,560
+Thirparappu (Thiruparappu),Town Panchayat,Kanniyakumari,30,1350,78,0.62,25,50,67,4.2,550
+Thirukarungudi,Town Panchayat,Tirunelveli,30,1290,81,0.73,15,45,70,4.3,530
+Thirukkattupalli,Town Panchayat,Thanjavur,30,1010,75,0.50,20,50,66,4.1,550
+Thirumalayampalayam,Town Panchayat,Coimbatore,30,990,77,0.57,15,55,65,4.0,570
+Thirumalpur,Census Town,Vellore,30,970,76,0.61,10,50,66,4.3,560
+Thirumangalam (Tirumangalam),Municipality,Madurai,30,1030,74,0.66,15,45,67,4.2,550
+Thirumazhisai,Town Panchayat,Thiruvallur,30,990,78,0.63,10,50,65,4.4,530
+Thirumuruganpoondi,Town Panchayat,Tiruppur,30,1010,75,0.58,15,55,66,4.2,550
+Thirunagar,Town Panchayat,Madurai,30,980,79,0.62,15,50,65,4.1,570
+Thirunageswaram,Town Panchayat,Thanjavur,30,1270,80,0.64,20,45,67,4.3,560
+Thiruneermalai,Town Panchayat,Kanchipuram,30,1010,81,0.56,10,50,66,4.2,550
+Thirunindravur (Thiruninravur),Town Panchayat,Thiruvallur,30,1030,76,0.68,10,55,67,4.4,530
+Thiruparankundram,Municipality with Outgrowth,Madurai,30,1080,78,0.62,15,50,66,4.1,550
+Thiruporur,Town Panchayat,Kanchipuram,30,1180,79,0.65,10,45,65,4.3,570
+Thiruppalai,Census Town,Madurai,30,990,76,0.65,15,50,67,4.0,560
+Thiruppanandal,Town Panchayat,Thanjavur,30,970,78,0.59,20,55,68,4.2,550
+Thirupuvanam (Thirubuvanam),Town Panchayat,Thanjavur,30,990,80,0.60,20,50,66,4.1,530
+Thirupuvanam,Town Panchayat,Sivaganga,30,970,79,0.66,20,45,70,4.2,550
+Thiruthangal,Municipality,Virudhunagar,30,980,77,0.65,15,50,66,4.3,570
+Thiruthuraipoondi,Municipality,Thiruvarur,30,1270,75,0.66,20,55,65,4.4,560
+Thiruvaiyaru,Town Panchayat,Thanjavur,30,1010,78,0.63,20,50,66,4.3,550
+Thiruvalam,Town Panchayat,Vellore,30,990,80,0.60,10,45,67,4.1,530
+Thiruvallur (Tiruvallur),Municipality,Thiruvallur,30,1150,82,0.62,10,50,66,4.0,550
+Thiruvarur,Municipality,Thiruvarur,30,1350,79,0.58,20,55,67,4.2,570
+Thiruvattar,Town Panchayat,Kanniyakumari,30,1290,81,0.64,25,50,65,4.3,560
+Thiruvenkadam,Town Panchayat,Tirunelveli,30,980,77,0.67,15,45,60,4.0,550
+Thiruvennainallur,Town Panchayat,Viluppuram,30,970,78,0.62,10,50,66,4.1,530
+Thiruverumbur,Town Panchayat,Tiruchirappalli,30,1020,79,0.65,15,55,67,4.2,550
+Thiruvidaimarudur,Town Panchayat,Thanjavur,30,1180,76,0.61,20,50,65,4.3,570
+Thiruvithancode (Thiruvithamcode),Town Panchayat,Kanniyakumari,30,1270,80,0.66,25,45,67,4.1,560
+Thisayanvilai,Town Panchayat,Tirunelveli,30,990,74,0.58,15,50,66,4.1,550
+Thondamuthur,Town Panchayat,Coimbatore,30,1010,75,0.60,15,55,65,4.2,530
+Thondi,Town Panchayat,Ramanathapuram,30,1150,73,0.61,20,50,66,4.3,550
+Thoothukkudi (Thoothukudi),Municipal Corporation,Thoothukkudi,30,1350,76,0.63,15,45,67,4.0,570
+Thorapadi,Town Panchayat,Vellore,30,990,78,0.62,10,50,70,4.2,560
+Thorapadi,Town Panchayat,Cuddalore,30,980,80,0.59,10,55,66,4.3,550
+Thottipalayam,Census Town,Tiruppur,30,1010,79,0.66,15,50,65,4.1,530
+Thottiyam,Town Panchayat,Tiruchirappalli,30,970,78,0.60,15,45,66,4.3,550
+Thozhur,Census Town,Thiruvallur,30,990,81,0.61,10,50,67,4.2,570
+Thudiyalur,Town Panchayat,Coimbatore,30,1020,75,0.65,15,55,65,4.0,560
+Thuraiyur,Municipality,Tiruchirappalli,30,970,77,0.55,15,50,66,4.1,550
+Thuthipattu,Census Town,Vellore,30,1010,76,0.60,10,45,65,4.2,530
+Thuvakudi,Municipality,Tiruchirappalli,30,990,74,0.56,15,50,67,4.3,550
+Timiri,Town Panchayat,Vellore,30,1150,78,0.63,10,55,66,4.4,570
+Tindivanam,Municipality,Viluppuram,30,1320,75,0.61,10,50,64,4.1,560
+Tiruchendur (Thiruchendur),Town Panchayat,Thoothukkudi,30,1010,79,0.62,20,45,64,4.2,550
+Tiruchengode,Municipality,Namakkal,30,1180,80,0.63,15,50,63,4.2,530
+Tiruchirappalli,Municipal Corporation,Tiruchirappalli,30,1230,81,0.58,15,55,64,4.2,550
+Tirukalukundram,Town Panchayat,Kanchipuram,30,1010,76,0.55,10,50,63,4.3,570
+Tirukkoyilur (Tirukoilur),Town Panchayat,Viluppuram,30,970,78,0.63,10,45,64,4.4,560
+Tirumalaigiri,Census Town,Salem,30,1350,79,0.65,15,50,63,4.2,550
+Tirunelveli,Municipal Corporation,Tirunelveli,30,1080,76,0.58,20,55,64,4.3,530
+Tirupathur (Tiruppattur),Municipality,Vellore,30,990,78,0.72,15,50,61,4.1,550
+Tirupathur,Town Panchayat,Sivaganga,30,970,80,0.60,15,45,63,4.3,570
+Tirupattur,Census Town,Vellore,30,1050,79,0.65,15,50,64,4.0,560
+Tiruppur,Municipal Corporation,Tiruppur,30,1270,77,0.55,10,55,63,4.5,550
+Tirusulam,Census Town,Kanchipuram,30,1020,75,0.62,10,50,64,4.2,530
+Tiruttani (Thiruttani),Municipality,Thiruvallur,30,1180,78,0.60,10,45,63,4.1,550
+Tiruvannamalai,Municipality,Tiruvannamalai,30,1030,80,0.66,10,50,63,4.0,570
+Tiruverkadu,Municipality with Outgrowth,Thiruvallur,30,970,82,0.68,10,55,64,4.1,560
+Tiruvethipuram (Cheyyar),Municipality,Tiruvannamalai,30,1350,79,0.64,10,50,64,4.2,550
+Tiruvottiyur,Municipality,Thiruvallur,30,1010,81,0.62,10,45,63,4.1,530
+Tittacheri,Town Panchayat,Nagapattinam,30,980,77,0.63,20,50,64,4.1,550
+Tittakudi,Town Panchayat,Cuddalore,30,970,78,0.59,10,55,63,4.3,570
+Tittangulam,Census Town,Thoothukkudi,30,990,79,0.57,10,50,64,4.2,560
+T.Kallupatti,Town Panchayat,Madurai,30,1050,76,0.60,20,45,63,4.0,550
+TNPL Pugalur,Town Panchayat,Karur,30,1320,80,0.67,15,50,63,4.2,530
+Udangudi,Town Panchayat,Thoothukkudi,20,1020,74,0.55,20,55,61,4.2,550
+Udayarpalayam,Town Panchayat,Ariyalur,30,1500,75,0.62,15,50,64,4.1,570
+Udhagamandalam (Ooty),Municipality,The Nilgiris,30,1100,73,0.73,30,45,64,4.2,560
+Udumalaipettai,Municipality,Tiruppur,30,990,76,0.50,15,50,66,4.3,550
+Ullur,Census Town,Thanjavur,30,970,78,0.57,10,55,63,4.0,530
+Ulundurpettai,Town Panchayat,Viluppuram,30,980,80,0.61,10,50,64,4.2,550
+Unjalur,Town Panchayat,Erode,30,1010,79,0.66,10,45,63,4.1,570
+Unnamalaikadai,Town Panchayat,Kanniyakumari,30,970,78,0.63,25,50,61,4.0,560
+Uppidamangalam,Town Panchayat,Karur,30,980,81,0.58,10,55,64,4.2,550
+Uppiliapuram,Town Panchayat,Tiruchirappalli,30,1010,75,0.62,10,50,63,4.1,530
+Urapakkam,Census Town,Kanchipuram,30,990,77,0.64,10,45,63,4.2,550
+Usilampatti,Municipality,Madurai,30,970,76,0.56,15,50,61,4.3,570
+Usuppur,Census Town,Cuddalore,30,1180,74,0.68,10,55,64,4.0,560
+Uthamapalayam,Town Panchayat,Theni,30,1010,78,0.62,20,50,64,4.1,550
+Uthangarai,Town Panchayat,Krishnagiri,30,990,75,0.65,15,45,63,4.2,530
+Uthayendram,Town Panchayat,Vellore,30,1050,79,0.65,10,50,63,4.3,550
+Uthiramerur,Town Panchayat,Kanchipuram,30,1020,80,0.59,10,55,64,4.1,570
+Uthukkottai (Uthukottai),Town Panchayat,Thiruvallur,30,980,81,0.60,10,50,63,4.0,560
+Uthukuli,Town Panchayat,Tiruppur,30,970,76,0.66,10,45,63,4.3,550
+Vadakarai Keezhpadugai,Town Panchayat,Tirunelveli,30,990,78,0.65,15,50,64,4.2,530
+Vadakkanandal,Town Panchayat,Viluppuram,30,1010,79,0.66,10,55,63,4.4,550
+Vadakkuvalliyur,Town Panchayat,Tirunelveli,30,1150,76,0.63,20,50,64,4.2,570
+Vadalur,Town Panchayat,Cuddalore,30,1010,78,0.60,10,45,63,4.1,560
+Vadamadurai,Town Panchayat,Dindigul,30,980,80,0.62,10,50,61,4.3,550
+Vadavalli,Town Panchayat,Coimbatore,30,1000,79,0.58,10,55,66,4.2,530
+Vaddakkankulam,Census Town,Tirunelveli,30,980,77,0.65,20,50,63,4.4,550
+Vadi,Census Town,Virudhunagar,30,1020,75,0.60,10,45,61,4.1,570
+Vadipatti,Town Panchayat,Madurai,30,980,78,0.62,20,50,64,4.3,560
+Vadugapatti,Town Panchayat,Erode,30,980,80,0.63,10,55,63,4.0,560
+Vadugapatti,Town Panchayat,Theni,30,1270,82,0.65,10,50,64,4.2,550
+Vaitheeswarankoil,Town Panchayat,Nagapattinam,30,1180,79,0.60,30,45,66,4.1,540
+Valangaiman,Town Panchayat,Thiruvarur,30,1150,81,0.58,20,50,61,4.2,560
+Valasaravakkam,Municipality,Thiruvallur,30,990,77,0.70,20,55,63,4.3,550
+Valathur,Census Town,Vellore,30,1010,78,0.62,10,50,64,4.4,570
+Valavandankottai,Census Town,Tiruchirappalli,30,970,79,0.59,20,45,63,4.3,530
+Valavanur,Town Panchayat,Viluppuram,30,1020,76,0.63,20,50,63,4.1,550
+Valayambattu,Census Town,Vellore,30,1010,80,0.65,20,55,64,4.0,560
+Vallam,Town Panchayat,Thanjavur,30,1010,74,0.61,20,50,63,4.2,560
+Vallam,Census Town,Kanchipuram,30,3200,75,0.64,20,45,64,4.3,520
+Valparai,Municipality,Coimbatore,20,1270,73,0.60,30,50,64,4.0,530
+Valvaithankoshtam,Town Panchayat,Kanniyakumari,30,1150,76,0.57,10,55,64,4.1,550
+Vanagaram,Census Town,Thiruvallur,30,1020,78,0.59,20,50,63,4.2,560
+Vanapadi,Census Town,Vellore,30,1010,80,0.68,20,45,63,4.3,530
+Vanavasi,Town Panchayat,Salem,30,1150,79,0.62,10,50,64,4.1,550
+Vandalur,Census Town,Kanchipuram,30,1080,78,0.63,30,55,63,4.1,560
+Vandavasi,Municipality,Tiruvannamalai,30,980,81,0.64,20,50,64,4.2,570
+Vandiyur,Census Town,Madurai,30,990,75,0.67,20,45,66,4.3,530
+Vanganur,Census Town,Thiruvallur,30,970,77,0.62,10,50,64,4.0,550
+Vaniputhur,Town Panchayat,Erode,30,1180,76,0.65,10,55,63,4.2,560
+Vaniyambadi,Municipality,Vellore,30,1010,74,0.61,10,50,64,4.3,530
+Vanniyoor,Census Town,Kanniyakumari,30,1020,78,0.66,20,45,61,4.1,550
+Varadarajanpettai,Town Panchayat,Ariyalur,30,990,75,0.58,20,50,63,4.3,570
+Vasudevanallur,Town Panchayat,Tirunelveli,30,970,79,0.60,20,55,64,4.2,530
+Vathirairuppu,Town Panchayat,Virudhunagar,30,980,80,0.61,10,50,61,4.0,550
+Vavarai,Census Town,Kanniyakumari,30,1050,81,0.63,20,45,63,4.1,560
+Vazhapadi,Town Panchayat,Salem,30,970,76,0.62,20,50,64,4.2,530
+Vedapatti,Town Panchayat,Coimbatore,30,1270,78,0.59,20,55,63,4.3,520
+Vedaranyam,Municipality,Nagapattinam,30,1010,79,0.64,30,50,63,4.4,550
+Vedasandur,Town Panchayat,Dindigul,30,970,76,0.67,20,45,64,4.1,530
+Veeraganur,Town Panchayat,Salem,30,980,78,0.62,20,50,61,4.2,560
+Veerakeralam,Town Panchayat,Coimbatore,30,1010,80,0.65,20,55,63,4.2,570
+Veerakkalpudur,Town Panchayat,Salem,30,980,79,0.61,20,50,63,4.2,560
+Veerapandi,Census Town,Tiruppur,30,980,77,0.66,20,45,61,4.3,560
+Veerapandi,Town Panchayat,Coimbatore,30,980,75,0.58,20,50,64,4.4,560
+Veerapandi,Town Panchayat,Theni,30,1180,78,0.60,20,55,63,4.2,520
+Veerapandianpattinam Town,Census Town,Thoothukkudi,30,990,80,0.61,20,50,63,4.3,570
+Veerappanchatiram (Veerappanchatram),Municipality,Erode,30,1150,82,0.63,20,45,63,4.1,560
+Veeravanallur,Town Panchayat,Tirunelveli,30,1010,79,0.62,20,50,64,4.3,570
+Velampalayam,Municipality,Tiruppur,30,1270,81,0.59,20,55,63,4.0,520
+Velankanni,Town Panchayat,Nagapattinam,30,980,77,0.66,30,50,61,4.5,550
+Velayudampalayam,Census Town,Tiruppur,30,990,78,0.60,20,45,64,4.2,560
+Vellakinar,Town Panchayat,Coimbatore,30,970,79,0.61,20,50,17,4.1,530
+Vellakkalpatty,Census Town,Salem,30,1050,76,0.65,20,55,66,4.0,560
+Vellakoil,Municipality,Tiruppur,30,1020,80,0.55,20,50,67,4.1,550
+Vellalur (Vellalore),Town Panchayat,Coimbatore,30,1150,74,0.60,20,45,65,4.2,530
+Vellamcode,Census Town,Kanniyakumari,30,1010,75,0.56,20,50,67,4.1,550
+Vellaravalli,Census Town,Tiruppur,30,980,73,0.63,20,55,66,4.1,520
+Vellimalai,Town Panchayat,Kanniyakumari,30,1080,76,0.61,30,50,65,4.3,560
+Vellore,Municipal Corporation,Vellore,30,990,78,0.62,20,45,66,4.2,550
+Vellottamparappu,Town Panchayat,Erode,30,970,80,0.63,20,50,67,4.0,570
+Velur,Town Panchayat,Namakkal,30,1010,79,0.58,20,55,70,4.2,550
+Vembadithalam,Census Town,Salem,30,970,78,0.55,20,50,66,4.2,530
+Vengampudur,Town Panchayat,Erode,30,990,81,0.63,20,45,65,4.1,560
+Vengathur,Census Town,Thiruvallur,30,1150,75,0.65,20,50,66,4.2,570
+Vengavasal,Census Town,Kanchipuram,30,1010,77,0.58,20,55,67,4.3,560
+Vengikkal,Census Town,Tiruvannamalai,30,980,76,0.72,20,50,65,4.0,530
+Venkarai,Town Panchayat,Namakkal,30,970,74,0.60,20,45,66,4.2,550
+Venkatachalapuram,Census Town,Virudhunagar,30,990,78,0.65,20,50,65,4.1,570
+Venkatapuram,Census Town,Krishnagiri,30,1010,75,0.55,20,55,67,4.0,560
+Vennanthur,Town Panchayat,Namakkal,30,970,79,0.62,20,50,66,4.2,550
+Veppathur,Town Panchayat,Thanjavur,30,1180,80,0.60,20,45,64,4.1,530
+Verkilambi,Town Panchayat,Kanniyakumari,30,1050,81,0.66,10,50,64,4.2,560
+Vettaikaranpudur,Town Panchayat,Coimbatore,30,1020,76,0.68,10,55,63,4.3,550
+Vettavalam,Town Panchayat,Tiruvannamalai,30,990,78,0.64,10,50,64,4.0,570
+Vijayapuri,Census Town,Erode,30,1270,79,0.62,20,45,63,4.1,530
+Vikramasingapuram,Municipality,Tirunelveli,30,1010,76,0.63,20,50,64,4.2,560
+Vikravandi,Town Panchayat,Viluppuram,30,990,78,0.59,20,55,63,4.3,570
+Vilacheri,Census Town,Madurai,30,1010,80,0.57,20,50,64,4.1,550
+Vilangudi,Town Panchayat,Madurai,30,1020,79,0.60,20,45,63,4.0,560
+Vilankurichi,Census Town,Coimbatore,30,970,77,0.67,20,50,63,4.3,550
+Vilapakkam,Town Panchayat,Vellore,30,980,75,0.55,20,55,64,4.2,560
+Vilar,Census Town,Thanjavur,30,990,78,0.62,10,50,63,4.4,570
+Vilathikulam,Town Panchayat,Thoothukkudi,30,1270,80,0.73,20,45,64,4.2,520
+Vilathurai,Census Town,Kanniyakumari,30,1150,82,0.50,20,50,63,4.1,530
+Vilavancode,Census Town,Kanniyakumari,30,1010,79,0.57,20,55,61,4.3,550
+Vilavur,Town Panchayat,Kanniyakumari,30,990,81,0.61,20,50,66,4.2,530
+Villukuri,Town Panchayat,Kanniyakumari,30,1150,77,0.66,20,45,63,4.4,560
+Viluppuram,Municipality,Viluppuram,30,970,78,0.63,20,50,61,4.1,550
+Viraganur,Census Town,Madurai,30,1020,79,0.58,20,55,64,4.3,560
+Viralimalai,Census Town,Pudukkottai,30,990,76,0.62,20,50,63,4.0,570
+Virinchipuram,Census Town,Vellore,30,970,80,0.64,20,45,64,4.2,550
+Virudampattu,Census Town,Vellore,30,1180,74,0.56,20,50,66,4.1,560
+Virudhachalam,Municipality,Cuddalore,30,1270,75,0.68,20,55,61,4.2,570
+Virudhunagar,Municipality,Virudhunagar,30,980,73,0.62,20,50,63,4.3,530
+Virupakshipuram,Census Town,Vellore,30,970,76,0.65,20,45,64,4.4,560
+Viswanatham,Census Town,Virudhunagar,30,990,78,0.65,20,50,63,4.3,550
+V.Pudupatti,Town Panchayat,Virudhunagar,30,970,80,0.59,10,55,63,4.1,560
+V. Pudur,Town Panchayat,Thoothukkudi,30,1150,79,0.60,10,50,64,4.0,570
+Walajabad,Town Panchayat,Kanchipuram,30,1180,78,0.66,20,45,63,4.2,560
+Walajapet,Municipality with Outgrowth,Vellore,30,1500,81,0.65,20,50,64,4.3,520
+Wellington,Cantonment (Board),The Nilgiris,20,1600,75,0.66,30,55,64,4.0,520
+Yercaud,Census Town,Salem,20,1020,77,0.63,30,50,64,4.1,570
+Zamin Uthukuli,Town Panchayat,Coimbatore,30,990,76,0.60,10,45,63,4.2,560
+Zuzuvadi,Census Town,Krishnagiri,30,1200,74,0.62,10,50,63,4.3,520
